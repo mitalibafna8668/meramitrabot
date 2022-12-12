@@ -1,0 +1,2710 @@
+{
+  "intents": [
+    {
+      "patterns": ["How can companies support disability organisations"],
+      "responses": [" cooperatives and entrepreneurs with disability?"],
+      "tag": " India"
+    },
+    {
+      "patterns": [
+        "What are the ways of promoting indirect employment of disabled people?"
+      ],
+      "responses": [
+        "Companies can create a Supplier Diversity Policy or Programme to:  Promote businesses owned by disabled people and disability cooperatives and  Influence their existing or potential vendors to adopt an equal opportunity policy.Promotion of businesses owned by disabled people and disability cooperatives  A Supplier or Vendor Diversity Policy to support and promote businesses owned by people from minority and disadvantaged sections of society.  Having a specific target to give certain percentage of business to suppliers from diverse backgrounds.  Modifying the Vendor Registration Forms to gather information on whether the business is owned by people from diverse backgrounds.       Building a Database of suppliers from diverse backgrounds could be developed and maintained.  Training and Mentoring Suppliers from diverse background. Influencing their existing/potential vendors  Encourage all the vendors to adopt an Equal Opportunity Policy and to employ people with disabilities.  Some Companies also have a Code of Conduct for ensuring that their suppliers or vendors follow ethical practices; respect and value their employees and environment. Non-discrimination could be added to the Code.  Introduce a clause in the Request for Proposal (RFP) for vendors to share information about their equal opportunity initiatives.  Training sessions could be organised to educate their suppliers or vendors on disability. Microsoft Supply Diversity Initiative   If you would like to become a Microsoft vendor"
+      ],
+      "tag": " minority-owned"
+    },
+    {
+      "patterns": [
+        "What are the specific safety guidelines for preparing the emergency plan for individual disabilities"
+      ],
+      "responses": [" including people with mental disabilities?"],
+      "tag": " treat the individual as you would any adult.  Explain what needs to be done.  Give the person an opportunity to define her/his needs and wishes toyou. Allow her/him to make decisions as fully as possible.  Remember at all times"
+    },
+    {
+      "patterns": ["What are the steps for developing an Evacuation Plan?"],
+      "responses": [
+        "There are three main steps to having a good emergency evacuation plan.Step 1: Develop workable Emergency Evacuation PlanThe first step is to develop a workable emergency evacuation plan specific to that place and people"
+      ],
+      "tag": " the information and action required is simply to evacuate.Traditionally"
+    },
+    {
+      "patterns": [
+        "Who all would require assistance for safe evacuation in the event of an Emergency?"
+      ],
+      "responses": [
+        "Not all people who have impairment/disability will necessarily require assisted evacuation. Also"
+      ],
+      "tag": " such as those with heart condition"
+    },
+    {
+      "patterns": [
+        "Would buildings that have been constructed according to the Building By-laws and Guidelines for accessibility become automatically safe for people with disabilities?"
+      ],
+      "responses": [
+        "Buildings constructed according to the existing Building By-laws and Access Guidelines would facilitate the safe evacuation of all people including disabled people. Basic fire safety measures and risk reduction practices for earthquakes"
+      ],
+      "tag": " some other building adaptations greatly help in safe evacuation and reduce the need for personal assistance. They may also extend the time available for disabled people to make their own evacuation or leave with assistance (see the Box  Specific Building Features to Enhance Fire Safety ). Specific Building Features to Enhance Fire Safety136  SprinklersThe operation of a properly designed and maintained sprinkler system in the building is reliable up to 95%. Usually the sprinkler system is connected with the automatic fire alarm system and comes into operation on its own in case of fire. A manually operable sprinkler system is also available. It eliminates the life threat to building occupants regardless of their individual abilities and can provide superior protection for people with disabilities.Sprinkler systems will"
+    },
+    {
+      "patterns": [
+        "Would a general plan for Emergency Preparedness suffice for people with disabilities also?"
+      ],
+      "responses": [
+        "Employees with disabilities are entitled to the same level of safety as everyone else. A general emergency preparedness plan for emergency evacuation will apply to people with disabilities also"
+      ],
+
+      "tag": " an emergency preparedness plan that includes the specific needs of people with disabilities appropriately addresses the specific needs of certain other people as well. They include temporarily disabled people (eg. a person with a leg injury)"
+    },
+    {
+      "patterns": [
+        "What does the Law say about Emergency Preparedness and what are the legal implications for the Employers?"
+      ],
+      "responses": [
+        " Each State in India has its own Fire Safety Laws which apply to all people including people with disabilities. The National Building Code 2005 which has provisions and guidelines for adopting fire safety norms and prevention against other calamities like flood"
+      ],
+      "tag": " earthquake etc. apply equally to the safety of people with disabilities also. In addition to these"
+    },
+    {
+      "patterns": [
+        "Why should an employer have an Emergency Preparedness Plan?"
+      ],
+      "responses": [" Wherever we live"],
+
+      "tag": " we all have a role to play in minimising the risk to life before fire and rescue services arrive. Both employers and employees would like to know how to exit the premises safely in the event of an emergency.People with disabilities are slowly but surely moving into mainstream society in India"
+    },
+    {
+      "patterns": ["What is an Emergency Preparedness Plan?"],
+      "responses": [
+        " Emergency Preparedness Plan simply means to be prepared for any emergency arising from events like fire"
+      ],
+      "tag": " earthquake and so on. The underlying principle of such a plan is to provide safety through safe evacuation i.e. the efficient relocation of building occupants to an area of safety usually outside the building.Each building should have an emergency action plan specifying the evacuation procedures for everyone"
+    },
+    {
+      "patterns": [
+        "Are there any corporate sectors who are working towards using technology to create accessibility for people with disabilities?"
+      ],
+      "responses": [
+        " IBM India has recently launched an initiative called  Human Ability and Accessibility Centre  that aims to make technology and information easily accessible to people with visual"
+      ],
+      "tag": " hearing and motor disabilities in India.Located at India Research Lab in New Delhi"
+    },
+    {
+      "patterns": [
+        "Are there any Government Grants available forindividuals to purchase assistive devices/technology?"
+      ],
+      "responses": [
+        " There is a Central Scheme called Assistance to Disabled Persons for purchase/fitting of aids and Appliances (ADIP). The ceiling for the cost of Equipment is Rs. 6000/-. Full aid is given to those whose income is up to Rs. 5000/- per month. 50% is given to people with income between Rs. 5000/- per month and Rs. 8000/- per month. Cost of travelling"
+      ],
+
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "How has assistive technology helped people with disabilities"
+      ],
+      "responses": [
+        " Assistive technology has helped people with disabilities in several ways ranging from minor to major. The following are real-life examples of how appropriate use of technologies has gone a long way in helping a person with disability.Garimella Subramanium"
+      ],
+
+      "tag": " pursued Political Science at the prestigious Jawaharlal Nehru University (JNU). Garimella later went to the London School of Economics"
+    },
+    {
+      "patterns": ["What is assistive technology?"],
+      "responses": [
+        " Assistive technology is a generic term that includes assistive"
+      ],
+
+      "tag": " locating and using them. Assistive technology promotes greater independence for people with disabilities by enabling them to perform tasks that they were formerly unable to accomplish. It also includes providing enhancements to accomplish tasks they had great difficulty accomplishing.Assistive technology includes any item"
+    },
+    {
+      "patterns": [
+        "Examples of Accommodations for Persons with Different Kinds of Disabilities"
+      ],
+      "responses": [
+        " A. Hearing ImpairmentScenario: A hearing impaired person is working at a petrol station. His duty is to put the specified quantity of fuel into vehicles. However"
+      ],
+
+      "tag": " MD - Shell India Marketing Pvt Ltd"
+    },
+    {
+      "patterns": [
+        " By providing reasonable accommodations to disabled people"
+      ],
+      "responses": [" are we not discriminating against others? "],
+      "tag": " you would be discriminating against disabled people if you do not provide reasonable accommodation. The Indian Constitution guarantees  Right to Equality . It states that you should treat people who are in similar situations similarly. If you treat people who are in dissimilar situations similarly"
+    },
+    {
+      "patterns": ["What are the rights and duties of an employee?"],
+      "responses": [
+        " The employee must inform the employer about her or his disability"
+      ],
+
+      "tag": " even if her/his medical condition has not changed.  The employee must cooperate with the employer in the consideration and implementation of the requested reasonable accommodation.  The employee must cooperate in providing medical or other information. This is necessary to verify the existence of the disability"
+    },
+    {
+      "patterns": [" What happens if an accommodation"],
+      "responses": [" including placement in an alternative position"],
+      "tag": " If an employee cannot be accommodated"
+    },
+    {
+      "patterns": [
+        "Does an employer have to justify not making an accommodation?"
+      ],
+      "responses": [
+        " Yes. The UN Convention mandates employers to  ensure reasonable accommodations  in the workplace. If an employer fails to take such steps which are reasonable"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "What are various options for employers who are unable to afford expensive assistive devices? Why should companies spend for reasonable accommodations?"
+      ],
+      "responses": [" First"],
+
+      "tag": " it would be important to look at all available options before rejecting the request.For example"
+    },
+    {
+      "patterns": ["Who pays for accommodations?"],
+      "responses": [
+        " If the accommodation meets the criteria for a  reasonable accommodation "
+      ],
+      "tag": " the employer must pay for any costs involved. Many large companies earmark a central budget for providing accommodation.However"
+    },
+    {
+      "patterns": ["When can an accommodation be requested?"],
+      "responses": [
+        " A job accommodation may be requested by the employee with a disability  During the job application process  After a job offer is made  At any time during the course of employmentEmployers should not ask job applicants about the presence of a disability. However"
+      ],
+
+      "tag": " with or without an accommodation.In particular"
+    },
+    {
+      "patterns": ["Who is responsible for requesting an accommodation?"],
+      "responses": [
+        "The employee with a disability is responsible for requesting an accommodation."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "What is the best way to identify and provide a Reasonable Accommodation?"
+      ],
+      "responses": [" Frequently"],
+
+      "tag": " the appropriate accommodation is obvious. The individual may suggest a reasonable accommodation based upon her/his own life or work experience. However"
+    },
+    {
+      "patterns": [
+        "What accommodations are not classified as  reasonable accommodations ?"
+      ],
+      "responses": [
+        " Reasonable accommodation does not include removing essential job functions"
+      ],
+      "tag": " and providing personal need items such as eye glasses"
+    },
+    {
+      "patterns": [
+        "Who decides whether or not an accommodation is unreasonable?"
+      ],
+      "responses": [
+        " The decision concerning whether an accommodation is unreasonable is made by the employer taking into account the factors listed above. However"
+      ],
+
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["Do all people with disabilities need accommodations?"],
+      "responses": [
+        "No. Accommodation needs are dependent on the nature of theinfrastructure and other arrangements. Certain arrangements requirelittle or no adjustment."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "Is it possible that an employer will have to provide more than one accommodation to an employee with disability?"
+      ],
+      "responses": ["  Yes"],
+      "tag": " for a woman with deaf-blindness who has joined a job and is unfamiliar with the building"
+    },
+    {
+      "patterns": [
+        "When is it  reasonable  for an employer to make anaccommodation?"
+      ],
+      "responses": [
+        " Effective and practicable adjustments for disabled people often involvelittle or no cost or disruption. It is very likely to be reasonable for anemployer to make. In order to determine if an adjustment is reasonable"
+      ],
+
+      "tag": " the particular accommodation is reasonable if it will havea direct effect on the productivity/output. If the adjustment does notbenefit the employee much"
+    },
+    {
+      "patterns": [
+        "Do employers have to provide Personal AssistanceServices (PAS) as a reasonable accommodation?"
+      ],
+      "responses": [" Globally"],
+
+      "tag": " this does not include PAS in the form ofpersonal attendant care at the work-site. Work-related PAS can includetask-related assistance at work such as readers"
+    },
+    {
+      "patterns": [
+        "Do employers have to provide transportation to and fromwork as an accommodation?"
+      ],
+      "responses": [" According to international guidelines"],
+      "tag": " an employer would not be required to provide transportation to commute to work as a reasonableaccommodation"
+    },
+    {
+      "patterns": [
+        "What are the reasonable accommodations that employersmight have to make?"
+      ],
+      "responses": [
+        " Accommodations are often thought of as physical equipment ormodifications. However"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["What does the law say about accommodations?"],
+      "responses": [" Article 27 (i) of CRPD states"],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "What if a person does not want to disclose her/hisdisability?"
+      ],
+      "responses": [
+        " The employee with any disability can decide whether and how much totell the employer about her/his disability. If an employee does not discloseher/his disability"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "Is this information confidential? Who should maintainthis list?"
+      ],
+      "responses": [
+        "Yes. Any information disclosed in the employee s Self Identification Formis very confidential. An employee may have disclosed her/his medicalcondition in the form which she/he may not have shared with others. Thisinformation is solely intended for the HR personnel who are in-charge ofthe equal opportunity initiative in the organisation."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "at what stage of recruitment should the SelfIdentification Form be given?"
+      ],
+      "responses": [
+        "Self Identification Form should be given after the job offer has beenmade. It should not be given during the application or assessment time. Itcan be part of the Induction/Joining kit."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "Should Self Identification Form be given to everybody oronly to employees with disability?"
+      ],
+      "responses": [
+        " Self Identification Form should be given to all employees. A lot ofdisabled candidates do not disclose their disability in the recruitmentrounds. Hence"
+      ],
+      "tag": " there are certain hidden disabilities whichmay require some special accommodations. Giving out Self IdentificationForm to all puts the onus on the employee to disclose her/his disabilityand to request for any accommodation that they may require. Hence"
+    },
+    {
+      "patterns": ["What is Self Identification Form?"],
+      "responses": [
+        "It is a simple form given to employees for disclosing their disability. It isan opportunity for employees with disability to  self identify  but also toseek any accommodations that they may require."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "How do we collect data on disability in our company? Arethere any guidelines?"
+      ],
+      "responses": [
+        " Disability is a sensitive issue and information pertaining to it should beappropriately collected.The following guidelines explain how to go about collecting data onemployees with disabilities:Use least intrusive meansCare must be taken that data collection is non-intrusive in form. Themethod should be such that it ensures respect"
+      ],
+      "tag": " it should be made clear to employees that theirparticipation is voluntary.Legitimate purposeA data collection programme should have a legitimate purpose: tomonitor and evaluate potential discrimination"
+    },
+    {
+      "patterns": [
+        "When can an employer decide to terminate? Would thetermination have to be justified?"
+      ],
+      "responses": [
+        " If the contract of an employee with a disability has to be terminated forany inevitable reasons"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "How can an employer ensure successful return to workfor an employee who acquires disability?"
+      ],
+      "responses": [
+        " A successful return to work for an employee with an acquired disabilityrequires some simple planning on part of the employer and the employee.In developing a strategy for managing disability in the workplace"
+      ],
+      "tag": " it is important to confirm that the employee has receivedmedical approval to return to work. It also has to be determined whetherthe return-to-work will be gradual or immediate.c. Is there an agreed plan for the specific details of returning to work?Communicate prior to the return-to-work date to allow an open discussionabout any parts of the role or workplace that may need modification.Professional assistance may be required if an employee s disability issignificant or if their disability requires significant modifications oradjustments. A workplace assessment could be undertaken to evaluate theemployee s access to the workplace. It would also assist in determiningwhat adjustments can be made to help the employee return to work.It is also important to establish a system for monitoring and managingany new issues in the initial return to work period115 "
+    },
+    {
+      "patterns": [
+        "What should an employer do if an employee acquires adisability?"
+      ],
+      "responses": [
+        " Not all disabilities are present at birth. Many people acquire disabilitythrough an accident"
+      ],
+      "tag": " there should be a written policy statement on Returnto Work Programme to protect employees who acquire disability. "
+    },
+    {
+      "patterns": [
+        "What practical and emotional support do employers needto provide to ensure that employees with disability stickaround?"
+      ],
+      "responses": [
+        " Every organisation needs to retain people with the right skills and talent.This can be enabled by investing in their future growth and showing themthe path to fulfil their dreams.For a firm to employ disabled people does not require extensive andexpensive alterations. A little thought and consideration goes a long way.Alex Hardy explains what you as an employer may do to retain disabledemployees:  Remove barriers.  Being a barrier-free employer means looking atevery aspect of how you operate"
+      ],
+      "tag": " theChief Executive of Employers  Forum on Disability. Think abouthow all your policies and procedures"
+    },
+    {
+      "patterns": ["Are there reservations in promotion?"],
+      "responses": [" As per Persons with Disabilities Act"],
+      "tag": " there are no legalobligations on the employer to have any reservations for employees withdisability for promotions. However"
+    },
+    {
+      "patterns": [
+        "There is a lot of traveling that needs to be done as onemoves higher in my company? Would disabled people beable to travel?"
+      ],
+      "responses": [
+        " Not all disabled persons have trouble travelling. People with orthopaedicand visual impairment"
+      ],
+      "tag": " may be able to travel independently with some or no support.Hence"
+    },
+    {
+      "patterns": [" The higher one goes up the ladder"],
+      "responses": [
+        " the more it becomesabout ability to handle different situations. Can disabledpeople be trusted to handle them? "
+      ],
+      "tag": " employees with disability could be trusted to take higherresponsibilities. However"
+    },
+    {
+      "patterns": ["Should career development use disability as a factor?"],
+      "responses": [" Disability should never be a factor influencing"],
+      "tag": " the decision on career development for any employee. Careerdevelopment decisions for any employee should be based on pureperformance"
+    },
+    {
+      "patterns": [
+        "Can an employer give negative feedback to a disabledemployee?"
+      ],
+      "responses": [
+        " Feedback is important as it helps the employees understand the intensityof their mistake and help them to improve on the same. Howeveremployees (irrespective of disability) should be given feedback in amanner that does not offend them. Employers should not refrain fromgiving negative feedback about the performance of disabled employees"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "How do we conduct performance appraisals for a disabledemployee?"
+      ],
+      "responses": [
+        " Performance appraisal procedures vary widely among companies. Somecompanies use formal"
+      ],
+      "tag": " oftenoral"
+    },
+    {
+      "patterns": [
+        "How can an employer ensure non discrimination in careerdevelopment for an employee with disability?"
+      ],
+      "responses": [
+        " There are a lot of myths and stereotypes obstructing the careerdevelopment opportunities for people with disability in organisations.Many people with a disability often remain in dead-end jobs because theyare passed over for promotion.Employers therefore would need to take proactive initiatives to ensureequal opportunities and non discrimination in the performance appraisals"
+      ],
+      "tag": "more responsibilities and new assignments) to enhance their skills.Supervisors should discuss career expectations with each employee"
+    },
+    {
+      "patterns": [
+        ".What kind of preparation is required for the coworkers /supervisors to ensure that they do not discriminate andprovide the right support?"
+      ],
+      "responses": [
+        " It is not just the physical environment that requires to be disabledfriendly"
+      ],
+      "tag": " Communication and Awareness Raising)Team should be aware of the Equal Opportunity Policy of the company anddisability etiquettes. The manager or supervisor should ensure that theemployee feels comfortable in the workplace"
+    },
+    {
+      "patterns": [
+        "Would visually impaired employees need mobilitytraining within the company?"
+      ],
+      "responses": [" Yes"],
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["Where should orientation be held?"],
+      "responses": [
+        " The orientation programme may be conducted within the companypremises or at a location outside the company premises. However"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "Should there be a separate induction for persons withdisability?"
+      ],
+      "responses": [
+        " Having a separate orientation programme may not be always taken in theright spirit. It may convey an impression that your organisation isdifferentiating between employees with disability and employees withoutdisability. As far as possible"
+      ],
+      "tag": " disability"
+    },
+    {
+      "patterns": ["What accommodations should we make duringinduction?"],
+      "responses": [
+        " Employer should arrange an induction programme (or an orientation) foran employee with disability in the same way as it is done for non disabledemployees.Some accommodations that may be made for persons with differentdisabilities are:  Accessible Venue for a person with orthopaedic disability  Suitable seating arrangement for a person with hearing impairment  Sign Language Interpreter/Transcription service for a person withhearing impairment Information in Accessible Formats for a person with visualimpairment  Assistance in filling up forms for a person with visual/learningdisability  Any specific request for accommodation requested by employee withdisabilityThe accommodations have to be arranged in consultation with employeeswith disabilities"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [".What is Induction? Why is it important?"],
+      "responses": [" It is popularly said"],
+      "tag": " history"
+    },
+    {
+      "patterns": [
+        ".What does the law say about terms and conditions ofemployment?"
+      ],
+      "responses": [
+        " With the United Nations Convention on Rights of Persons with Disability(CRPD) having come into force in India"
+      ],
+      "tag": " training"
+    },
+    {
+      "patterns": [".Should rejections be justified?"],
+      "responses": [
+        " An employer is justified in giving a disabled candidate no further consideration if"
+      ],
+      "tag": " the candidate has beentreated equally with other applicants and one of the following applies:  If a disabled person lacks a qualification or appropriate ability"
+    },
+    {
+      "patterns": [
+        "What kind of reasonable accommodations could be madeduring an assessment process?"
+      ],
+      "responses": [
+        " Venue: It would be important to provide an accessible venue forconducting tests for people with orthopaedic disabilities.Scribes: A person with a visual disability or a person who lacks manualdexterity may need assistance in filling out an application form or writingtests. Without such accommodations"
+      ],
+      "tag": " Braille"
+    },
+    {
+      "patterns": [
+        "What should an employer do if an applicant arriveswithout previously requesting an accommodation?"
+      ],
+      "responses": [
+        " In the circumstances where a disabled applicant arrives for an interviewwithout previously notifying the employer of her/his requirements"
+      ],
+      "tag": " if it is not possible to makethe required adjustment because there has been no prior notice"
+    },
+    {
+      "patterns": [
+        "How can we make the Application Process accessible andinclusive?"
+      ],
+      "responses": [
+        " The application process is where the actual recruitment process for anycandidate begins. It is important for organisations to understand thevarious needs of people with different disabilities and provide necessaryaccommodations. Application processes and forms can act as strategictools in the process of hiring persons with disabilities.An employer should ensure that applicants with disabilities are notdiscriminated against. The purpose of a job application is to gatherinformation on the skills"
+      ],
+      "tag": " training"
+    },
+    {
+      "patterns": ["What are the do s and don ts for medical examination?"],
+      "responses": [
+        " An employer should not ask a disabled employee to undergo medicalexamination before they are offered a job. After the job offer has beenmade"
+      ],
+      "tag": " but only if all entering employees for that jobcategory have to take the examination. Tests must be relevant andappropriate to the kind of work in question. Fitness criteria must benecessary for the job the applicant has applied for. An employer shouldestablish that tests do not unfairly exclude and are not biased in how orwhen they are applied"
+    },
+    {
+      "patterns": ["Can an employer make conditional Job Offers?"],
+      "responses": [
+        " An employer may make conditional Job Offers:  If an applicant with a disability is suitably qualified"
+      ],
+      "tag": " with or withoutreasonable accommodation.  If the testing shows that accommodation requirements wouldcreate unjustifiable hardship or that there is an objectivejustification that relates to the inherent requirements of the jobor to health and safety"
+    },
+    {
+      "patterns": [
+        "What does the law say about terms and conditions of employment?"
+      ],
+      "responses": [
+        " With the United Nations Convention on Rights of Persons with Disability (CRPD) having come into force in India"
+      ],
+      "tag": " training"
+    },
+    {
+      "patterns": ["Should rejections be justified?"],
+      "responses": [
+        " An employer is justified in giving a disabled candidate no further consideration if"
+      ],
+      "tag": " the candidate has been treated equally with other applicants and one of the following applies:  If a disabled person lacks a qualification or appropriate ability"
+    },
+    {
+      "patterns": [
+        "What kind of reasonable accommodations could be made during an assessment process?"
+      ],
+      "responses": [
+        " Testing Accommodations:Venue: It would be important to provide an accessible venue forconducting tests for people with orthopaedic disabilities.Scribes: A person with a visual disability or a person who lacks manual dexterity may need assistance in filling out an application form or writing tests. Without such accommodations"
+      ],
+      "tag": " Braille"
+    },
+    {
+      "patterns": ["How do we assess disabled people?"],
+      "responses": [
+        " An employer should apply the same criteria to assess the ability of peoplewith disabilities and those without disabilities. However"
+      ],
+      "tag": " objectiveand unbiased. The assessment process for jobs should be oriented towardsselection and not filtration!While deciding on an evaluation process for a candidate with a disability"
+    },
+    {
+      "patterns": [
+        "What should an employer do if an applicant arrives without previously requesting an accommodation?"
+      ],
+      "responses": [
+        " In the circumstances where a disabled applicant arrives for an interview without previously notifying the employer of her/his requirements"
+      ],
+      "tag": " if it is not possible to make the required adjustment because there has been no prior notice"
+    },
+    {
+      "patterns": [
+        "How can we make the Application Process accessible and inclusive?"
+      ],
+      "responses": [
+        " The application process is where the actual recruitment process for any candidate begins. It is important for organisations to understand the various needs of people with different disabilities and provide necessary accommodations. Application processes and forms can act as strategic tools in the process of hiring persons with disabilities.An employer should ensure that applicants with disabilities are not discriminated against. The purpose of a job application is to gather information on the skills"
+      ],
+      "tag": " training"
+    },
+    {
+      "patterns": [" In what ways can"],
+      "responses": [" an employer source disabled people? "],
+      "tag": " which include - campuses"
+    },
+    {
+      "patterns": ["What is the first step of recruitment process?"],
+      "responses": [
+        " The very first step to start the recruitment process is to make a job description note. A job description note is a written statement"
+      ],
+      "tag": " relationships"
+    },
+    {
+      "patterns": [
+        "A common case:  No employer has the time to do a job analysis. Just give me the list of identified jobs for disabled people and their CVs. I do not want to waste any time. I want to employ 50 people with disability by next week. Please do not give me people with difficult disabilities. Let s start with easier disabilities."
+      ],
+      "responses": [
+        " We see in this instance a well-meaning employer but his approach is not appropriate for the following reasons:Firstly"
+      ],
+      "tag": " without giving a chance to the person to make the decision for herself/himself. If the job is described in detail"
+    },
+    {
+      "patterns": ["How does one fit the right person in the right job?"],
+      "responses": [
+        " Once the Job Analysis is completed and a detail Job Description has been written for the position"
+      ],
+      "tag": " depending on the circumstances. This question may be responsesed at least partially through the Job Analysis process.Many people with disabilities may not require any accommodation. If an accommodation is required"
+    },
+    {
+      "patterns": ["Is it mandated by law to have Job Descriptions?"],
+      "responses": [
+        " It is not mandated by law to have Job Descriptions. However"
+      ],
+      "tag": " a written Job Description that was prepared before the job was advertised or candidates interviewed can be considered as evidence (in determining essential functions] along with other factors. "
+    },
+    {
+      "patterns": [
+        ".Are there any online tools available to assist with writing Job Analysis and Job Descriptions?"
+      ],
+      "responses": [
+        " The Job Description Writer is an online tool to help employers and human resource specialists write job descriptions. Users begin by selecting an occupation and are prompted to include statements about common skills"
+      ],
+      "tag": " tasks"
+    },
+    {
+      "patterns": [
+        "What are the benefits of Job Analysis and Job Descriptions?"
+      ],
+      "responses": [
+        " The benefits of doing a Job Analysis and Job Description are:  Supporting general recruitment and selection process  Supporting the job matching process  Appraising staff performance  Assisting in staff promotion exercises  Identifying training needs  Providing Reasonable accommodation to people with disabilities  Preventing & Resolving individual issues and problems that arise in the enterprise  Legal requirements  Organisational needs"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["When should Job descriptions be written?"],
+      "responses": [
+        "Employers should develop job descriptions before advertising the job or interviewing applicants."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "Who can do a Job Analysis? Are there any formalqualifications required to do a Job Analysis?"
+      ],
+      "responses": [
+        " Job Analysis can be conducted by placement consultants who place people with disabilities. It can also be done by the line manager or a supervisor who knows each job under supervision and the skills needed to perform it. Human resource specialists who are responsible for initial screening of job applicants and mediating performance appraisal disputes must also understand the key components of the jobs in their organisation. They can follow the Job Analysis methodology to write an inclusive job description.You do not need any formal qualifications to do a Job Analysis. A person should have reasonable understanding of the industry"
+      ],
+      "tag": " the needs of people with disability and knowledge of assistive technologies and adaptations.To do a Job Analysis"
+    },
+    {
+      "patterns": ["What is a Job Description?"],
+      "responses": [" After the Job Analysis is complete"],
+      "tag": " Robert )87The Job Accommodation Network ( Job Accommodation Network )88 further details the way a job description has to be written:A job description should contain clear"
+    },
+    {
+      "patterns": ["How is Job Analysis done?"],
+      "responses": [
+        " The following questions can help you analyse each job in the organisation:Purpose  What is the rationale behind this job?  What aspect of business operations is supported by this task?  What internal/external customer is served?  Are the production and/or delivery of a product dependent on the performance of this task?Essential functions  What three or four activities actually constitute the job? Is each really necessary?  How much time is spent on the job performing each particular function? Are the tasks performed less frequently as important to success"
+      ],
+      "tag": " handling problems"
+    },
+    {
+      "patterns": [
+        "How do you define a  job ? What is the difference between a  job  and an  occupation ?"
+      ],
+      "responses": [
+        " There is clear distinction between (1) Occupation; (2) Position and (3) Job.An Occupation is a group of jobs that are reasonably similar with regard to the task performed and the knowledge"
+      ],
+      "tag": " primary teacher"
+    },
+    {
+      "patterns": [
+        "The Government has a List of Identified Posts. Can employers use that as a reference for identifying jobs in their companies?"
+      ],
+      "responses": [
+        " Ministry of Social Justice & Empowerment (MSJE) has prepared a List of Identified posts for People with Disabilities in the Government and Public Sector. However"
+      ],
+      "tag": " published by the Human Development Unit"
+    },
+    {
+      "patterns": [
+        "Isn t  identifying jobs for disabled people  the first step to recruitment of disabled people?"
+      ],
+      "responses": [
+        "  Identifying jobs  means selecting jobs that are suited to different disabilities. This may seem very logical but unfortunately"
+      ],
+      "tag": " the assumption is that disabled people are a homogenous group. The biggest flaw in that approach is that it matches impairments with jobs and does not match skills and abilities with jobs. It does not give a persons with disabilities the choice to demonstrate their capability to perform a job of their choice for which they might have the requisite skills. "
+    },
+    {
+      "patterns": ["Where do the blind people work?"],
+      "responses": [
+        " Thought Is the First Step To Beyond  Where do the blind work?   Jerome asked. He was fairly new with his blindness"
+      ],
+      "tag": " a result of a gunshot wound.  So Jerome"
+    },
+    {
+      "patterns": [" Are there jobs that are best suited for disabled people"],
+      "responses": [" say for a person in a wheelchair? "],
+      "tag": " and/or jobs that can be performed by a person in a seated position. However"
+    },
+    {
+      "patterns": ["What jobs can disabled people do?"],
+      "responses": [
+        " This question arises from the assumption that capabilities of people with disability are limited. As others"
+      ],
+      "tag": " interests and abilities. It is not appropriate to deny jobs to disabled people just because some presumptions exist. People with disabilities can be employed at entry level"
+    },
+    {
+      "patterns": [
+        "How does one ensure inclusion of people with disabilities at conferences and during presentations?"
+      ],
+      "responses": [
+        " The key to this is accessibility. To ensure their presence"
+      ],
+      "tag": " usually. Always have reading material or power point presentations"
+    },
+    {
+      "patterns": [
+        "How can one include people with disabilities at a social gathering? Is it rude to invite a person with disability to inaccessible places?"
+      ],
+      "responses": [
+        " Asking people with disabilities to go out for any social gathering is a good inclusive gesture. One can ask them directly what makes them feel comfortable. Of course"
+      ],
+      "tag": " especially"
+    },
+    {
+      "patterns": [
+        "Is it appropriate to ask people with disabilities about their disability and experiences?"
+      ],
+      "responses": [
+        " It is understandable to be curious about someone s disability and they may be willing to talk to you about it. However"
+      ],
+      "tag": " in privacy. It is important to connect with persons with disability"
+    },
+    {
+      "patterns": [
+        "How does one introduce people with disability to others? Should their disability be mentioned?"
+      ],
+      "responses": [
+        " The disability of a person is definitely not her/his weakness. There is a general assumption that people with disability are dissatisfied with their quality of life"
+      ],
+      "tag": " if there is a meeting and a person with visual impairment is expected to attend it"
+    },
+    {
+      "patterns": [
+        "Do people with disabilities also need to follow the work etiquette?"
+      ],
+      "responses": [" Yes"],
+      "tag": " the same guidelines for etiquette apply to everyone in the company. They need to be presentable as any other employee in the work place. They should be given all the briefs of the work ethics and what is expected from them. "
+    },
+    {
+      "patterns": [
+        "Who needs to know this etiquette? How can we train people?"
+      ],
+      "responses": [
+        " Every individual in the work environment needs to know the etiquette"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["How to interact with a person who has visual impairment"],
+      "responses": [" When greeting the person"],
+      "tag": " do not push or pull the person. Allow him or her to take your arm"
+    },
+    {
+      "patterns": ["How to help a wheel chair user?"],
+      "responses": [" Do not push"],
+      "tag": " or hold onto a person's wheelchair unless the person asks you to. The wheelchair is part of his or her personal space.- Try to put yourself at eye level when talking with someone in a wheelchair.- Rearrange furniture or objects to accommodate a wheelchair before the person arrives.- Offer to tell the person where accessible rest rooms"
+    },
+    {
+      "patterns": [
+        "Is etiquette different for persons with different kinds of disabilities?"
+      ],
+      "responses": [
+        " It is important to keep in mind that all people have to be treated respectfully. There are some general considerations while interacting with people with different kinds of disabilities.Treat each person as an individual with unique needs"
+      ],
+      "tag": " does not mean her/his needs are the same as anyone else with that same disability.When talking or writing about a person with disability"
+    },
+    {
+      "patterns": ["Why is it important to know disability etiquette?"],
+      "responses": [
+        " Knowing and applying disability etiquette is one way of making people with disabilities feel welcomed. When supervisors and co-workers use disability etiquette"
+      ],
+      "tag": " should I offer handshake to a person with a physical disability? Should I ask the person to repeat what he said because I do not understand? How can I involve them without hurting their sentiments? Co-workers might hesitate to take the initiative to communicate with people with disabilities. Tips about etiquette are likely to help ease the hesitation. Using these tips to interact with persons with disability will facilitate a comfortable conversation for both parties. "
+    },
+    {
+      "patterns": [" If we use the right terminology"],
+      "responses": [" does it mean we are sensitised? "],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "What is appropriate terminology and what is inappropriate? Is there a global standard for appropriate terminology?"
+      ],
+      "responses": [
+        " The most widely accepted terms are  disabled person  and  person with disability .  Disabled Person - Social model terminology - Disability is seen as the result of the interaction between a person and her or his environment. Hence the term  disabled person  is considered appropriate"
+      ],
+      "tag": " and not by the impairment.  Person with disability - Person first terminology - People with Disabilities are people first: mothers and fathers; sons and daughters; employees and employers; friends and neighbours; students and teachers; scientists"
+    },
+    {
+      "patterns": ["Isn t one labeling people by using certain words?"],
+      "responses": [
+        " Appropriate terminology helps to use words related to disabilities in the right perspective. With the growing disability rights movement and with disabled people voicing their views"
+      ],
+      "tag": " such terminology could be used in context to communicate with professionals while determining services for persons with disability. "
+    },
+    {
+      "patterns": [
+        "Why is it important to use appropriate terminology? How does it make a difference?"
+      ],
+      "responses": [
+        " Language is critical in shaping and reflecting our thoughts"
+      ],
+      "tag": " feelings and ideas. The kind of words we choose to label someone with disability can demoralise and degrade the individual. Most people with disabilities are faced with labels that are judgmental and condemning. Perhaps the most dangerous misuse of language in describing people with disability has been to dehumanise the individual by labeling as cripple"
+    },
+    {
+      "patterns": [
+        "How can we evaluate the accessibility of our website? Are there any experts who can help design an accessible website?"
+      ],
+      "responses": [
+        " There are a few organisations in India which assist companies in developing accessible websites like:  DEOC  Diversity and Equal Opportunity Centre - www.deoc.in  Barrierbreak  www.barrierbreak.com  Gonsalves Design - http://rahulgonsalves.com/Organisations can refer to global standards set by the World Wide Web Consortium (www.w3c.org). The Web Content Accessibility Guidelines (WCAG) documents explain how to make Web content accessible to people with disabilities. Web   content   generally refers to the information in a Web page or Web application"
+      ],
+      "tag": " images"
+    },
+    {
+      "patterns": [
+        "How can a website be made accessible for persons with different disabilities?"
+      ],
+      "responses": [
+        " Examples of design requirements for people with different kinds of disabilities include:Visual? described graphics or video? well marked-up tables or frames? keyboard support"
+      ],
+      "tag": " supplemental illustration Physical"
+    },
+    {
+      "patterns": ["Why is Web Accessibility important?"],
+      "responses": [
+        " The Web is an increasingly important resource in many aspects of life: education"
+      ],
+      "tag": " government"
+    },
+    {
+      "patterns": [
+        "What kind of barriers do people with disabilities face while accessing websites?"
+      ],
+      "responses": [
+        " Poorly designed websites can create unnecessary barriers for people with disabilities"
+      ],
+      "tag": " for instance"
+    },
+    {
+      "patterns": ["Why is web accessibility an issue?"],
+      "responses": [
+        "There are several reasons why Web accessibility is important:  Use of the Web has spread into all areas of society  There are barriers on the Web for many types of disabilities  Web accessibility also has carry-over benefits for other users"
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": ["What is Web Accessibility?"],
+      "responses": [
+        " a  Websites and applications- That people with disabilities can perceive"
+      ],
+      "tag": " navigate"
+    },
+    {
+      "patterns": ["How is accessibility related to Universal Design?"],
+      "responses": [" Universal design"],
+      "tag": "   is an approach to design products"
+    },
+    {
+      "patterns": [
+        "What are the access issues related to employees with intellectual disabilities?"
+      ],
+      "responses": [
+        " Following accessibility standards would generally ensure cross compatibility and usability by persons with various kinds of disabilities. However"
+      ],
+      "tag": " statues"
+    },
+    {
+      "patterns": [
+        "Are there certain aspects which are a Must Have? What are these? How expensive are they?"
+      ],
+      "responses": [
+        " Making your building accessible at the design stage may not bring additional costs to the project. Retrofitting based on an access audit can have variable cost implications based on the extent of work involved. At the bare minimum"
+      ],
+      "tag": " doorways and doors (including the main entrance)  Lifts  Toilet facilities  All public facilities and outlets  Public (reception) counters and desks  Surface finishes"
+    },
+    {
+      "patterns": [
+        "We have employed the best architects in the city to design our buildings. Can we assume that they will construct a building that is disabled friendly?"
+      ],
+      "responses": [" Hiring the best architect"],
+      "tag": " contractor and designer for designing your building will not ensure that a building is accessible. It is important that you emphasise the need for accessibility in the design brief which you give to the architect. Additionally"
+    },
+    {
+      "patterns": [
+        "We have been told that we need to get an access audit done for our existing office space. What is an access audit? Who conducts Access Audits?"
+      ],
+      "responses": [
+        " An Access Audit of your work area will help you to identify access issues that can restrict full participation of employees with disabilities. An access audit will help identify barriers in physical environment"
+      ],
+      "tag": " transportation and other services and provide concrete suggestions for removing them.Access Audits today are conducted by several NGOs or disabled persons  groups. They are able to give a good user perspective. While it is good to take into account user perspectives"
+    },
+    {
+      "patterns": [
+        "Are there guidelines available for making our buildingsaccessible and disabled friendly?"
+      ],
+      "responses": [
+        " India has guidelines that were developed by the Central Public Works Department (CPWD)"
+      ],
+      "tag": " entitled"
+    },
+    {
+      "patterns": [
+        "What does the law say about accessibility in the workplace? What are the various policies and regulations related to accessibility?"
+      ],
+      "responses": [
+        " related to accessibility?The law mandates accessibility in the workplace.The UN Convention on the Rights of Persons with Disabilities (CRPD) as well as the Persons with Disabilities Act"
+      ],
+      "tag": " India developed a rating system for rating  greenness of the building  or its environmental performance. It includes  Accessibility of Persons with Disability  as criteria. The rating system for buildings developed by TERI has been recognised by the Government of India and is now referred as 'The National Rating System for Green Buildings "
+    },
+    {
+      "patterns": ["Why should we make our workplace accessible?"],
+      "responses": [
+        " Making the office or shop area accessible is important not only because it will help comply with the law and building regulations but will also help the employer tap the pool of candidates with disabilities whom the company may be able to employ. Also"
+      ],
+      "tag": " it enables the company to get a larger and recurring clientele. Accessibility will also benefit the aging workforce"
+    },
+    {
+      "patterns": [
+        "Is constructing a ramp at the building entrance enough to make the workplace accessible?"
+      ],
+      "responses": [
+        " Access is not restricted to the built environment. To make an area truly accessible"
+      ],
+      "tag": " keeping in mind accommodations required by people with different kinds of disabilities. For example"
+    },
+    {
+      "patterns": ["What is accessibility?"],
+      "responses": [
+        " Accessibility is generally understood today as an approach to creating environments that people of all ages and abilities are able to use to the largest extent possible. The approach could be applicable to health services"
+      ],
+      "tag": " clothing"
+    },
+    {
+      "patterns": [
+        "How do we sensitise our other stakeholders (clients/customers/vendors etc)?"
+      ],
+      "responses": [" Send your clients"],
+      "tag": " national disability policy"
+    },
+    {
+      "patterns": ["How do we communicate our EO Policy externally?"],
+      "responses": [
+        " The company website could carry a statement about its Equal Opportunity Policy. Alternatively"
+      ],
+      "tag": " job announcements and advertisements make efficient carriers of information. Use these forums to talk about your Equal Opportunity policy. Incorporate a logo that signifies that you are an EO employer in your advertisements"
+    },
+    {
+      "patterns": [
+        "How do I handle a complaint about an insensitive remark made by a colleague to a disabled employee?"
+      ],
+      "responses": [
+        " Companies may prefer to hire experts in the area of disability rights"
+      ],
+      "tag": " it is important to take complaints about a colleague s insensitivity to disability very seriously. An insensitive remark about disability is a grave offence. It qualifies as harassment under several international disability employment policies. It is your prerogative to protect all your employees from harassment and discrimination. As an employer"
+    },
+    {
+      "patterns": [
+        "How can we measure our employees  level of sensitivity after programmes have been conducted?"
+      ],
+      "responses": [" The goals you have set for your management team"],
+      "tag": " you can decide the success of your sensitisation programmes and gauge the sensitivity levels of your employees.  Follow up the sensitisation programmes with feedback routines i.e. provide feedback forms at the end of sensitisation training sessions.  Email feedback forms to employees and invite anonymous questions via a multi-user email address.  Create an email group chiefly for company employees where disability awareness concerns are voiced and responded to by subscribers. These kinds of follow-up platforms allow you to measure employees  learning curves when it comes to disability sensitivity and disability awareness. "
+    },
+    {
+      "patterns": [
+        "Isn t it better to include disability sensitisation as part of other programmes rather than having separate initiatives?"
+      ],
+      "responses": [
+        " It would be a good idea to incorporate disability sensitisation programmes into other events and programmes. One of the ways of doing that is by encouraging people with disabilities to participate in various events of the company. Any barriers preventing their participation in these activities should be removed.It is also recommended that you conduct very specific programmes about disability.Disability has been overlooked or sidelined the world over for a long time now. The present moment requires that we re-focus on disability as an empowering diversity identity. Having separate training modules and awareness campaigns for disability sensitisation will positively reinforce the company s equal opportunity mission. Disability has not been recognised as a positive identity characteristic till recently. Therefore"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "We celebrate Disability Awareness Month and Week and conduct programmes. Is this enough or should we have programmes through the year?"
+      ],
+      "responses": [
+        " It is advisable to have programmes at different points in the year. A predetermined Disability Awareness Month or Week might cause inertia in those who are indifferent"
+      ],
+      "tag": " a month long or week long schedule offers a consolidated period of time to think about disability and clarify questions that come up about disability for employees.Weeklong programmes organised two times in a year would allow the company to focus on different aspects during each week. Let s say the theme for one such is  Access . During this week you could focus on different aspects of access. This could include a small fair that showcases accessible software and new research that is developing advances in accessible technology. The second awareness week could focus on diversity in general with theatre productions that include stage plays"
+    },
+    {
+      "patterns": [
+        "What is World Disability Day? Why should companies observe the day?"
+      ],
+      "responses": [" According to the ILO"],
+      "tag": " organisations of disabled persons and society as a whole to focus upon and take stock of the gains to be made from the inclusion of persons with disabilities in every aspect of political"
+    },
+    {
+      "patterns": [
+        "Do we have to make it mandatory for all employees to attend the training?"
+      ],
+      "responses": [
+        "Equal Opportunity Policy is a policy that the company as a unit has chosen to comply with. It is therefore necessary that all employees of the company are informed about and trained to comply with the requirements of the policy. Consider making the training mandatory and part of the employee s induction training programme. It can subsequently be done at regular intervals."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": [
+        "What is the general duration of such trainings? How do we ensure good participation for such trainings?"
+      ],
+      "responses": [
+        " The duration could vary from a tight 20-minute training module to a weekend workshop. There is no prescribed duration for sensitisation training programmes. Activity-oriented trainings are intrinsically motivating as they get employees to get out of their work routines and move around!However"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": ["Should a disabled person conduct these trainings?"],
+      "responses": [
+        " A disabled person or a non disabled person could conduct the training programme. It is not necessary that the trainer fits a particular profile. However"
+      ],
+      "tag": " if conducted by the company"
+    },
+    {
+      "patterns": [
+        "Are there NGOs and Consultants who conduct these trainings?"
+      ],
+      "responses": [
+        " There are disability employment and accessibility organisations"
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["Should support staff be sensitised?"],
+      "responses": [
+        " It is very important to sensitise support staff to the needs of disabled persons as it is in spaces like elevators"
+      ],
+      "tag": " as the environments may not be completely disabled friendly. There is the likelihood of some staff providing assistance without being asked for. A training session could equip support staff with appropriate etiquette while assisting persons with disabilities in everyday activities. "
+    },
+    {
+      "patterns": [
+        "Are there different trainings for different levels of employees (like Senior Management/Managers etc.)"
+      ],
+      "responses": [" Yes"],
+      "tag": " by virtue of the positions they hold"
+    },
+    {
+      "patterns": [
+        "Who should attend the trainings/sensitisation programmes? Is it only the non-disabled employees or should even the disabled employees attend the programmes?"
+      ],
+      "responses": [
+        " Diversity is of different kinds. Discrimination is or has been an experience common to persons belonging to different diversity groups"
+      ],
+      "tag": " women"
+    },
+    {
+      "patterns": [
+        "Should we conduct sensitisation programmes before we start hiring disabled people?"
+      ],
+      "responses": [
+        " A company should ideally begin conducting sensitisation programmes from the time it adopts an Equal Opportunity Policy. The programmes should be mandatory and conducted at regular intervals so that all employees are trained.Even though the company has been employing disabled persons long before adopting an Equal Opportunity Policy officially or conducting sensitisation programmes"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        " Should we do simulation exercises (making people sit on wheelchair"
+      ],
+      "responses": [
+        " blindfold them) for non-disabled employees to experience disability? "
+      ],
+      "tag": " it might induce charity-oriented reactions. It is likely that while participating in such simulation activities"
+    },
+    {
+      "patterns": ["What are the various ways of sensitising employees?"],
+      "responses": [
+        " Training Programmes & Sensitisation ActivitiesSensitisation training programmes could be of different kinds. The programme could consist of short Power Point Presentations (PPT) or extended workshops consisting of presentations and exercises.For instance here is an outline of a short training module:Fifteen-minute PPT modules could consist of:  A list of instances that portray negative attitudes.  Potential scenarios with inappropriate and appropriate attitudesportrayed in them.  Information about the EO Policy and the country s laws that mandate provision of equal opportunity to people of diverse backgrounds.  An outline of discriminatory language followed by a brief overview of preferred language.The module could also include activities as long as we are careful not to give the wrong message by using simulations.Demonstrate how to relate and communicate with people with disabilities.Listing stereotypical instances to identify negative or inappropriate attitudes is a powerful exercise and makes lasting impressions on people. Disabled persons  reactions to some of these popular but discouraging attitudes could also be presented to strengthen the impact of the exercise. Facilitate discussion around the benefits of proper disability etiquette and appropriate terminology.You can add activities for participants that make them realise that environmental barriers make people disabled.For instance"
+      ],
+      "tag": " almost inaudible to people beyond the first row of participants or those seated closest to the facilitator. Participants seated farther will undoubtedly ask the facilitator to speak louder and probably say  we can t hear you . The facilitator can make use of this artificially created moment to say that the problem is not with the hearers but with how softly the words were spoken. In case of a large hall or room"
+    },
+    {
+      "patterns": [
+        "Does law mandate that companies should organise sensitisation trainings?"
+      ],
+      "responses": [
+        " The United Nations Convention on the Rights of Persons with Disabilities (CRPD) lists  Awareness-raising  as an important undertaking in a section on  Rights and Dignity of Persons with Disabilities . Promotion of awareness training programmes is prescribed by the Convention as a measure:  To raise awareness throughout society"
+      ],
+      "tag": " regarding persons with disabilities"
+    },
+    {
+      "patterns": [
+        "Are we not drawing undue attention to disability by conducting such programmes?"
+      ],
+      "responses": [
+        " The aim of sensitisation programmes is to draw positive attention to disability as a diversity issue. Disabled persons  inclusion in the company"
+      ],
+      "tag": " requires to be recognised as a significant aspect of the company s efforts to provide equal opportunity without discrimination. Sensitisation programmes are a good platform to inform all the employees about the company s policy. Disability has often been ignored and it is important to recognise it as part of the diversity initiative by way of according disabled employees equal status in the company.A sensitisation programme will draw attention to the unhealthy disability stereotypes in conversation"
+    },
+    {
+      "patterns": ["Why should a company conduct sensitisation programmes?"],
+      "responses": [
+        " To dispel negative attitudesThe objective of a sensitisation/awareness programme is to dispel negative stereotypes from our thoughts and actions when addressing or working with persons with disability.There may be a tendency in our society to think of disabled persons as objects of pity or charity; or they may be thought of as people with illnesses or diseases who need to be cured medically. There could be anxiety that they are not productive"
+      ],
+      "tag": " misconceptions and myths about the abilities of co-workers with disabilities. To adhere to basic tenets and spirit of EO PolicyIncreasingly"
+    },
+    {
+      "patterns": [
+        "Our company has recently adopted the Equal Opportunity Policy (EO). How do we communicate internally to ensure maximum support from all our employees?"
+      ],
+      "responses": ["   As you have adopted the EO Policy recently"],
+      "tag": " detailing the policy and the company s faith in the EO Policy. Senior leaders of the company can do town halls on this and launch this policy. This would also project the commitment of the company to the Policy.  Your communication could include different kinds of information about disabled people or the disability policy in India in general. In addition"
+    },
+    {
+      "patterns": [
+        "Are there any Awards or recognition for a company that is doing exemplary work in the area of disability employment?"
+      ],
+      "responses": [" Yes"],
+      "tag": " the NCPEDP-Shell Helen Keller awards symbolise an equal playing field for people with disabilities. Every year"
+    },
+    {
+      "patterns": [
+        "Is there any symbol/logo that is awarded to companies that are disabled friendly?"
+      ],
+      "responses": [" Yes"],
+      "tag": " which has been designed by National Centre for Promotion of Employment for Disabled People (NCPEDP) called  Disabled Friendly Corporate Logo . This logo"
+    },
+    {
+      "patterns": [
+        "Is there a reservation policy with regard to the percentage of disabled people in the company?"
+      ],
+      "responses": [" In the private sector"],
+      "tag": " many companies have a long-term aim to ensure that the composition of their workforce reflects that of the community. They have targets to increase the representation of underrepresented groups and communities in their workforce. As a result some companies have voluntarily taken up a target of 5% reservation of jobs for people with disabilities in the workforce (this reflects the approximate percentage of people with disabilities in the country). "
+    },
+    {
+      "patterns": [
+        "What Department should drive the Equal Opportunity Initiative?"
+      ],
+      "responses": [" In many companies"],
+      "tag": " it is important to approach disability in an appropriate manner"
+    },
+    {
+      "patterns": [" How can a company support Diversity"],
+      "responses": [" including Employees with Disabilities? "],
+      "tag": " where diversity is respected and valued.Disability Management Principles Disability Management Principles"
+    },
+    {
+      "patterns": [
+        "Our organisation has diversity policy but we focus on culture and gender. We are not yet comfortable to include disability as part of our diversity goals."
+      ],
+      "responses": [" Workforce diversity is not about exclusion"],
+      "tag": " true diversity"
+    },
+    {
+      "patterns": ["What is Equal Opportunity / Inclusive Workplace?"],
+      "responses": [
+        " An equal opportunity / inclusive workplace is one where:  Everyone is treated with dignity and respect  Everyone has equal access to jobs"
+      ],
+      "tag": " skills and abilities  Selection is based on merit"
+    },
+    {
+      "patterns": ["Is disability a diversity issue?"],
+      "responses": [
+        " Yes! Disability is a diversity issue. People with disabilities are one of the nation's largest minority groups. It is also the only group that any person can become a member of"
+      ],
+      "tag": " gender-based"
+    },
+    {
+      "patterns": ["What is Diversity?"],
+      "responses": [" Diversity means variety of differences."],
+      "tag": " is a commitment to recognising and appreciating the variety of characteristics that make individuals unique in an atmosphere that promotes and celebrates individual and collective achievement.Diversity means difference"
+    },
+    {
+      "patterns": [
+        "Can private companies be sued for violating or not  complying with the CRPD?"
+      ],
+      "responses": [
+        " Treaties must first be incorporated into domestic law before they may be  invoked directly before the Courts."
+      ],
+      "tag": " even  when those have not been directly incorporated into domestic law.  Despite the fact that several international conventions and treaties have  not been enacted as municipal law"
+    },
+    {
+      "patterns": ["What is Affirmative Action?"],
+      "responses": [
+        " The term affirmative action describes policies aimed at a historically and  socio-politically non-dominant group (typically"
+      ],
+      "tag": "Employment"
+    },
+    {
+      "patterns": [
+        "What is unlawful discrimination on the basis of  disability?"
+      ],
+      "responses": [
+        " Unlawful discrimination is broadly defined as treating one person unfairly  over another"
+      ],
+      "tag": "   discrimination on the basis of disability   means  any distinction"
+    },
+    {
+      "patterns": ["What is reasonable accommodation?"],
+      "responses": [
+        "A reasonable accommodation is any modification to a job or the workenvironment. It enables a qualified applicant or employee with adisability to participate in the application process or to perform  essentialjob functions . Reasonable accommodation also includes adjustments toassure that a qualified individual with a disability has rights and155Reasonable Accommodations and Assistive Technologyprivileges in employment equal to those of employees without disabilities."
+      ],
+      "tag": " Diversity and Inclusion"
+    },
+    {
+      "patterns": ["What Implication does the CRPD have for India?"],
+      "responses": [
+        " Article 1(f) of the CRPD calls for measures at the domestic level to be taken to  equalise opportunities for persons with disabilities. The Government of each  country is required to implement policies"
+      ],
+      "tag": " changes in statutes like the Persons with  Disabilities Act"
+    },
+    {
+      "patterns": [
+        "What are the laws that protect the rights of persons with  disabilities in India?"
+      ],
+      "responses": [
+        " India has passed four laws that specifically address persons with  disabilities.    The Persons with Disabilities (Equal Opportunities"
+      ],
+      "tag": " 1995   The National Trust for the Welfare of Persons with Autism"
+    },
+    {
+      "patterns": [
+        "What are rights of disabled persons in India as per the  Indian Constitution?"
+      ],
+      "responses": [" Prior to the enactment of the laws for disabled people"],
+      "tag": "  though it did not directly address persons with disability as a category. It is  important to remember that the provisions of the Constitution of India apply  uniformly to persons with disability as well as to persons without disability. "
+    },
+    {
+      "patterns": [" Are people with mental"],
+      "responses": [
+        " intellectual and learning  disabilities employable? What about people with multiple  disabilities? "
+      ],
+      "tag": " environment and support"
+    },
+    {
+      "patterns": ["Can people with visual disabilities use computers?"],
+      "responses": [" Yes"],
+      "tag": " using spreadsheets"
+    },
+    {
+      "patterns": ["Are all people with disabilities employable?"],
+      "responses": [
+        " People with different disabilities have different abilities"
+      ],
+      "tag": " or that people with certain disabilities can only work in a  sheltered workplace are stereotypes. Other stereotypes include the belief  that people with a certain disability can only be good singers"
+    },
+    {
+      "patterns": [
+        "What is the percentage of educated people with disability?"
+      ],
+      "responses": [
+        " The literacy rates are low among children of all context of disability"
+      ],
+      "tag": " multiple and intellectual disabilities.Across all persons with disability"
+    },
+    {
+      "patterns": [
+        "Is underemployment of employable persons with  disabilities rampant in India?"
+      ],
+      "responses": [
+        " It is widespread knowledge that disabled employees are often paid lesser  than their colleagues. When given"
+      ],
+      "tag": " experience and skill. Many  times"
+    },
+    {
+      "patterns": ["How many disabled people are waiting for jobs in India?"],
+      "responses": [" According to the Fact Sheet on the UN Website"],
+      "tag": " there are more than 687"
+    },
+    {
+      "patterns": [" If the incidence of disability is so high"],
+      "responses": [
+        " how come disabled people are not seen in public places? "
+      ],
+      "tag": " training"
+    },
+    {
+      "patterns": ["One feels pity when one sees a disabled person"],
+      "responses": [" Have you heard of the phrase"],
+      "tag": " opportunity liberates ?  Well"
+    },
+    {
+      "patterns": [" If a blind person is employed"],
+      "responses": [" is it okay to call him blind? "],
+      "tag": " the issue of labelling has varyingviewpoints. Some people feel that they should not be identified by theirUnderstanding Disabilitydisability. Some others feel that they should be identified only by theirdisability and are proud of the fact. Whatever the case"
+    },
+    {
+      "patterns": ["Are disabled people different?"],
+      "responses": [
+        " Imagine you lose a leg in an accident. Will you become different? Will  your desire for friends"
+      ],
+      "tag": " your interests"
+    },
+    {
+      "patterns": ["Who exactly are disabled people?"],
+      "responses": [" Before we start"],
+      "tag": " deaf person"
+    },
+    {
+      "patterns": [
+        "Has disability always been viewed as an individual  problem?"
+      ],
+      "responses": [" Unfortunately"],
+      "tag": "  disability has traditionally been viewed as a problem of the individual  focussing only on impairments and therefore needing medical treatment  and cure. This forms the basis of the  medical model  of disability"
+    },
+    {
+      "patterns": [
+        "What are the barriers to the inclusion of people with  disabilities in society?"
+      ],
+      "responses": [" A person is  disabled  because of infrastructural"],
+      "tag": "  technological"
+    },
+    {
+      "patterns": ["What is disability?"],
+      "responses": [" A bodily impairment (e.g."],
+      "tag": " climbing stairs). This restriction posed  by the environment (staircase) makes the person disabled.  In other words"
+    },
+    {
+      "patterns": [
+        "How about disabled customers? Should one make  products and services accessible for them?"
+      ],
+      "responses": [
+        " Making businesses accessible makes perfect business sense. If the productsand services are disabled friendly"
+      ],
+      "tag": " which means direct returns andprofits in the business. To quote an example"
+    },
+    {
+      "patterns": [
+        "Do the returns start coming in immediately after  recruiting a disabled person or is there some gestation  period?"
+      ],
+      "responses": [" There are immediate"],
+      "tag": " the infrastructure  improves"
+    },
+    {
+      "patterns": [
+        "Does one have to pay higher salaries to employees with  disabilities or can the employer save some money by  hiring them? Is there any support available from the  Government to meet the cost of hiring and retaining  persons with disabilities?"
+      ],
+      "responses": [
+        " One does not have to pay a higher salary to employees with disabilities.  However"
+      ],
+      "tag": " it makes business sense to hire people with disabilities as one can"
+    },
+    {
+      "patterns": [
+        "How does it make business sense to hire persons with disabilities?"
+      ],
+      "responses": [
+        " According to a resource guide on disability for employers developed by  International Labour Organisation:1   People with disabilities make good"
+      ],
+      "tag": " as a group"
+    },
+    {
+      "patterns": ["Why should one hire persons with disabilities?"],
+      "responses": [
+        " This is the first question that comes to the mind of any employer.  Disability"
+      ],
+      "tag": " is an overlooked and untapped segment. Hardly  any human resource professional"
+    },
+    {
+      "patterns": [
+        "What are the courses offered in the areas of Multiple Disabilities?"
+      ],
+      "responses": ["  B.Ed.Spl.Edn (Multiple Disabilities)"],
+      "tag": " Deafblind"
+    },
+    {
+      "patterns": ["How Do OTs Help Me Participate in Everyday Activities?"],
+      "responses": [
+        "   OTs seek to understand your situation and what is important to you"
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["Major role of OT in Multiple disabilities?"],
+      "responses": ["  1Identification of functional deficits& capacities "],
+      "tag": ""
+    },
+    {
+      "patterns": ["How does occupational therapy help a child?"],
+      "responses": [
+        "  Occupational therapy uses purposeful activities to enhance and encourage skill development. Guided by the child's interests"
+      ],
+      "tag": " occupational therapy offers creative solutions and alternatives for carrying out daily activities. "
+    },
+    {
+      "patterns": ["Is occupational therapy the same as physical therapy?"],
+      "responses": ["  No"],
+      "tag": " dressing"
+    },
+    {
+      "patterns": ["Definition of Occupational Therapy:"],
+      "responses": [
+        "  Occupational therapy is the art and science of facilitating human participation in occupation (i.e."
+      ],
+      "tag": " "
+    },
+    {
+      "patterns": [" leisure and work tasks) to restore"],
+      "responses": [" reinforce and enhance performance"],
+      "tag": ""
+    },
+    {
+      "patterns": [" functions essential for adaptation and productivity"],
+      "responses": [" diminish pathology"],
+      "tag": ""
+    },
+    {
+      "patterns": [" Occupational therapists use self-care"],
+      "responses": [" work"],
+      "tag": " play and leisure activities as therapeutic occupations "
+    },
+    {
+      "patterns": ["Will my child goes to normal school?"],
+      "responses": [
+        " Usually children who receive therapy prior to 6 months of age have greater chances of attending regular school."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "How will I know if my child is benefiting with the hearing aid?"
+      ],
+      "responses": [" i.  The child will enjoy variety of sounds"],
+      "tag": ""
+    },
+    {
+      "patterns": ["How many years will the hearing aid work?"],
+      "responses": [
+        " The life of a hearing aid is maximum 5 to 7 years. But it will last longer if good care and maintenance of the  hearing aid is provided."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "How and where can I keep my child hearing aid safe when he/she is wearing in to play?"
+      ],
+      "responses": [
+        " A method of retaining a hearing aid in place on a child comprising providing a huckkies. Harness is usually made of cloth used for body aids. Harness; It helps to place a hearing aid at a safe distance from the receiver in the ear and to place it firmly. Hukkies.: It is used with behind the ear hearing aid. It helps to hold the BTE firmly around the ear."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [" If I dont let my child wear the hearing aid"],
+      "responses": [" will it affect my child? "],
+      "tag": " if your child is does not the use of hearing aid regularly there will be deprivation of of sounds to the child. The child will fail to acquire and master the skill to listen to sound; he/she does not develop vivid mental representation of the spoken words thus resulting in poor speech. Poor mental representation of words leads to difficulties in comprehension of words and sentences during day to day communication. Usually while we talk each word is spoken relatively at a fast rate. The child requires an adequate mental representation of spoken words and speech sounds to retrieve and correlate the words from the heard stimuli. "
+    },
+    {
+      "patterns": ["What is an occupational therapy evaluation?"],
+      "responses": [
+        "  An occupational therapy evaluation will assess a child's gross motor"
+      ],
+      "tag": " visual motor"
+    },
+    {
+      "patterns": ["Why is an occupational evaluation beneficial?"],
+      "responses": [
+        "  An occupational therapy evaluation identifies your child's patterns of strength and need that impact daily performance of functional tasks such as eating"
+      ],
+      "tag": " school and community implementation. "
+    },
+    {
+      "patterns": [
+        "What areas are addressed in occupational therapy treatment?"
+      ],
+      "responses": [
+        "  Occupational therapy treatment encompasses several areas of performance. All treatment plans and therapy goals are created and implemented based on the child's individual needs. "
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "   Gross Motor Skills: Pertaining to movement of the large muscles in the arms"
+      ],
+      "responses": [" legs and trunk. "],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "   Oral Motor Skills: Pertaining to movement of muscles in the mouth"
+      ],
+      "responses": [" lips"],
+      "tag": " including sucking"
+    },
+    {
+      "patterns": ["   Self-Care Skills: Pertaining to daily dressing"],
+      "responses": [" feeding and toileting tasks. "],
+      "tag": ""
+    },
+    {
+      "patterns": ["   Sensory Integration: The ability to take in"],
+      "responses": [
+        " sort out and respond to the information we receive from the world. "
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["   Motor Planning Skills: The ability to plan"],
+      "responses": [" implement and sequence motor tasks. "],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "   Neuromotor Skills: Pertaining to the underlying building blocks of muscle strength"
+      ],
+      "responses": [" muscle tonicity"],
+      "tag": "Multiple disabilities"
+    },
+    {
+      "patterns": ["Where do occupational therapists work?"],
+      "responses": [
+        "  Occupational therapists work in a variety of settings. These could include hospitals"
+      ],
+      "tag": " nursing facilities"
+    },
+    {
+      "patterns": ["What are the treatment approaches used by the OTs?"],
+      "responses": [
+        "  Occupational therapist will use variety of approaches based on the client's needs like Sensory Integration approach"
+      ],
+      "tag": " Biomechanical approach"
+    },
+    {
+      "patterns": ["What does occupational science mean?"],
+      "responses": [
+        "  Occupational science is a new discipline that provides the basic science information about   occupations   or activities that support the practice of occupational therapy. Occupational science studies how activities meet the needs of individuals and communities"
+      ],
+      "tag": " and biology applied in medicine. "
+    },
+    {
+      "patterns": ["How long will require him/her to come for Speech Therapy?"],
+      "responses": ["  The time may vary according to the child's needs"],
+      "tag": " presence of other conditions"
+    },
+    {
+      "patterns": [" My child has a sensory neural hearing loss"],
+      "responses": [
+        " Will my child will ever be able to stop using the hearing aid and hear normally again? "
+      ],
+      "tag": " we never ask"
+    },
+    {
+      "patterns": [" My child has difficulty in speaking"],
+      "responses": [
+        " which is due to some deficits in his tongue or throat. I do not understand how hearing loss which is located in the ear is causing the speech problem in the mouth? "
+      ],
+      "tag": " may it be another person speaking in real life or on television. First the spoken words or sentences are heard then it's understood. If the child or a person does not hear the speech he/ she cannot understand it and cannot reply appropriately. To appreciate the difficulty of a person with hearing loss has in understanding others; try understanding the dialogues of an TV actor of a daily soap with the volume in mute"
+    },
+    {
+      "patterns": [
+        "Do we need to test every new born child for the presence of hearing loss?"
+      ],
+      "responses": ["  Yes"],
+      "tag": " should be established. "
+    },
+    {
+      "patterns": [" We shall put hearing aid when the child grows older"],
+      "responses": [" now he/she is not even five year old? "],
+      "tag": " rhythm of speech"
+    },
+    {
+      "patterns": [
+        "Will the hearing aid help my child hear and speak like normal children?"
+      ],
+      "responses": ["  Yes"],
+      "tag": " speech and language therapy regularly. To achieve this goal there is a need of early intervention and rehabilitation. "
+    },
+    {
+      "patterns": ["What is incidence for Autism?"],
+      "responses": [
+        " The incidence of Autism 1 child with autism is born for every 66 normal child."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        " Whether National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)  is providing Super Specialty services"
+      ],
+      "responses": [
+        " other than Rehabilitation services for Persons with  Multiple Disabilities? If yes"
+      ],
+      "tag": "  Dental services"
+    },
+    {
+      "patterns": [
+        " Whether National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)  provide Medicines"
+      ],
+      "responses": [
+        " if yes what are conditions it provide to persons with Disabilities? "
+      ],
+      "tag": "Multiple disabilities"
+    },
+    {
+      "patterns": [
+        "What are the names of organizations working for other Disabilities?"
+      ],
+      "responses": ["  NIMH (Secunderabad)"],
+      "tag": " NIVH (Dehradun)"
+    },
+    {
+      "patterns": [
+        "What are assessment tools available for Persons with Multiple Disabilities?"
+      ],
+      "responses": [
+        "  Indian Scale for Assessing Autism was developed by NIMH and MDPS"
+      ],
+      "tag": " CALLIER AZUZA "
+    },
+    {
+      "patterns": [
+        "What are the Health Insurance schemes available for persons with disabilities?"
+      ],
+      "responses": [
+        " Nirmaya Health Insurance Scheme (National Trust) is the only active health insurance scheme  exclusively for people with disabilities."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "What is the % of disability required for availing the benefits?"
+      ],
+      "responses": [
+        " 40% and above will be eligible for availing the benefits from the Government schemes."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "How to get the Disability certificate for Persons with Disabilities?"
+      ],
+      "responses": [
+        " CMO of the District level hospital can issue the certificate if it is a permanent 100% disability. There is a. medical board consisting of specialist to evaluate and certify the disabilities if the disabilities difficult to analyse."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "What are the Interventions available for Multiple Disabilities?"
+      ],
+      "responses": ["  Early Intervention"],
+      "tag": " Occupational therapy"
+    },
+    {
+      "patterns": [
+        "What are the services provided by National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD) ?"
+      ],
+      "responses": ["  Rehabilitation Medicine"],
+      "tag": " Occupational therapy"
+    },
+    {
+      "patterns": ["What are the causes for Multiple Disabilities?"],
+      "responses": ["  Infection in Pregnant mother"],
+      "tag": " Hypertension in pregnant mother"
+    },
+    {
+      "patterns": ["What is Multiple Disabilities?"],
+      "responses": [
+        "  Multiple Disabilities means a person who has two or more disabilities as enumerated in RPwD (2016) Act and National Trust (1999)Act. National Institute for the Empowerment of Persons with Multiple Disabilities National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)  has registered 54 different combination of Multiple Disabilities. Multiple Disabilities can be classified as mild"
+      ],
+      "tag": " Hearing Impairment with Autism"
+    },
+    {
+      "patterns": ["What rights will a patient s family have?"],
+      "responses": [" A patient s health information is private. Generally"],
+      "tag": "Mental Health Care Act 2017"
+    },
+    {
+      "patterns": [
+        " What rights do the patients have under the Mental healthcare Act"
+      ],
+      "responses": [" 2017? "],
+      "tag": " patients will have the right to: "
+    },
+    {
+      "patterns": [
+        " to the Mental Health Act Review Board if they feel they should not be held under the Mental Health Act"
+      ],
+      "responses": [" or disagree with decisions about their care. "],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        " 5) Consent to or refuse treatment.   Talk to their Substitute Decision Maker"
+      ],
+      "responses": [" if they have one.  . "],
+      "tag": ""
+    },
+    {
+      "patterns": [" 8) Write"],
+      "responses": [" send"],
+      "tag": ""
+    },
+    {
+      "patterns": ["   paragraph   "],
+      "responses": ["Mental Health Care Act 2017"],
+      "tag": ""
+    },
+    {
+      "patterns": ["What is a designated facility?"],
+      "responses": [" Under the new Mental Health Act"],
+      "tag": " care for"
+    },
+    {
+      "patterns": [
+        "Stanton Territorial Hospital is the only facility with an inpatient psychiatric unit and full time psychiatrists on staff. "
+      ],
+      "responses": ["Mental Health Care Act 2017"],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "Why did it take time to implement the new Mental Health Act?"
+      ],
+      "responses": [
+        " While the bill for the new Mental Health Act was passed in 2015"
+      ],
+      "tag": " it has been extremely important to take the time to get it right. Since 2015 the Department have been working with the Department of Justice and other stakeholders to draft the six Mental Health Act regulations"
+    },
+    {
+      "patterns": [
+        "How many Regulations were developed for the new Mental Health Act?"
+      ],
+      "responses": [
+        " Six different sets of regulations that are required to guide the administration of the new Mental Health Act were completed. These are:"
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["Apprehension"],
+      "responses": [" Conveyance and Transfer Regulations"],
+      "tag": ""
+    },
+    {
+      "patterns": ["Without these regulations"],
+      "responses": [" we would not be able to enforce the new Act. "],
+      "tag": ""
+    },
+    {
+      "patterns": ["Why do we need a new Mental Health Act?"],
+      "responses": [
+        "  Mental health philosophies of care and best practices have changed a lot since the 1988 Act. The new Act modernizes care and support for people experiencing a mental health emergency. The purpose of the new Mental Health Act is to: Provide short-term assessment"
+      ],
+      "tag": " and treatment. Uphold patient rights. Balance patient rights with the need for care and treatment. The new Act is based on these principles: No unreasonable delays in making or carrying out decisions affecting the treatment of the individual. Treatment decisions should respect the individual s cultural"
+    },
+    {
+      "patterns": ["   paragraph   "],
+      "responses": ["Mental Health Care Act 2017"],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "When does The Mental Health Care Act 2017 come into force?"
+      ],
+      "responses": [
+        " The new Mental health Care Act came into force September 1"
+      ],
+      "tag": "Mental Health Care Act 2017"
+    },
+    {
+      "patterns": ["Why does leprosy still destroy people s lives?"],
+      "responses": [
+        " In addition to the physical effects of the late treatment of leprosy which can leave people unable to work or carry out everyday tasks"
+      ],
+      "tag": " there are many myths and superstitions and a lack of understanding about the disease. This means that people affected by leprosy are often subjected to stigma and discrimination. They can be rejected by their families"
+    },
+    {
+      "patterns": ["Is there a leprosy vaccine?"],
+      "responses": [
+        " There is no current leprosy vaccine that provides full protection against the disease. However"
+      ],
+      "tag": " research to develop a more effective vaccine is taking place in the USA. "
+    },
+    {
+      "patterns": ["How are reactions treated?"],
+      "responses": [
+        " Some reactions can be treated with medicine such as aspirin or Tylenol. In some cases"
+      ],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["Why are the medications continued if reactions occur?"],
+      "responses": [" If medications that kill bacteria were not given"],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["What is a leprosy reaction?"],
+      "responses": [
+        " Reaction is the body s response to the dead bacteria in the body. When patients begin taking Multi-Drug Therapy (MDT) the bacteria are killed quite rapidly. Sometimes it takes years for the dead bacteria to be completely cleared from the body. During this time the body may react against these dead bacteria. This can cause pain and swelling in the skin and nerves and other parts of the body. Fever and muscle aches may also occur. The eyes could be red and painful. During reactions there is increased risk of damage to nerves in the eyes"
+      ],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["Is it OK to use the word leper?"],
+      "responses": [
+        " No. For centuries leprosy has been viewed with horror and the word leper has come to mean outcast. The word leper reinforces the already strong stigma against leprosy and contributes to the heartbreaking ostracism sufferers face. Using the word leper today is considered an offense to the hundreds of thousands affected by this disease. The terms  person affected by leprosy  . "
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["What tests can be done to diagnose leprosy?"],
+      "responses": [
+        " A trained health worker diagnoses leprosy through a skin biopsy. In this test"
+      ],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["Can other people get leprosy from a patient?"],
+      "responses": [
+        " Patients taking Multi-Drug Therapy do not spread the disease. When a person is placed on medication"
+      ],
+      "tag": " there is no risk of spreading the disease to anyone else. It is not necessary to isolate a person with leprosy at any time. Also"
+    },
+    {
+      "patterns": ["What types of damage does leprosy cause?"],
+      "responses": [
+        " Leprosy can damage the peripheral nerves and nerves in the skin which can lead to:"
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["2. Loss of the ability to feel light touch or"],
+      "responses": [" with more severe damage"],
+      "tag": " cuts and exposure to destructive pressures to the hands and feet."
+    },
+    {
+      "patterns": ["3. Weakness of the eyelids"],
+      "responses": [
+        " preventing proper closure of the lid and protection of the eye"
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": [
+        "4. Loss of strength in the hands and feet. With severe nerve damage of the hands and feet"
+      ],
+      "responses": [" there is paralysis of the small muscles"],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["What happens to pregnant women who have leprosy?"],
+      "responses": [
+        "Most women with leprosy have normal pregnancies and deliver healthy babies. Patients on treatment do not transmit leprosy to their babies."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["What side effects do the medications have?"],
+      "responses": [
+        " Dapsone: Some people may have a mild anemia. Very rarely"
+      ],
+      "tag": " but the problem clears when the medication is stopped. It may cause a harmless orange color in the urine"
+    },
+    {
+      "patterns": ["How is leprosy treated?"],
+      "responses": [" Leprosy can be cured with multi-drug therapy (MDT)"],
+      "tag": " clofazimine and dapsone. Treatment can take from six months to a year"
+    },
+    {
+      "patterns": ["Is leprosy very contagious?"],
+      "responses": [
+        "Most people will never develop the disease even if they are exposed to the bacteria. Approximately 95% of the world population has a natural immunity to leprosy."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["How do you catch leprosy?"],
+      "responses": [
+        " M. leprae is transmitted primarily through coughing and sneezing. In most cases"
+      ],
+      "tag": "Leprosy"
+    },
+    {
+      "patterns": ["What are the signs of leprosy?"],
+      "responses": [
+        " Early signs include spots on the skin that may be slightly red"
+      ],
+      "tag": " legs or back. Sometimes the only sign may be numbness in a finger or toe. If left untreated"
+    },
+    {
+      "patterns": ["Do fingers and toes fall off when someone gets leprosy?"],
+      "responses": [
+        " No. The bacteria attack nerve endings and destroy the body s ability to feel pain and injury. Without feeling pain"
+      ],
+      "tag": " resulting in tissue loss. Fingers and toes become shortened and deformed as the cartilage is absorbed into the body. Repeated injury and infection of numb areas in the fingers or toes can cause the bones to shorten. The tissues around them shrink"
+    },
+    {
+      "patterns": ["Why is leprosy also called Hansen s disease?"],
+      "responses": [
+        "The medical name for leprosy is Hansen s disease. Norwegian doctor Armauer Hansen was the first to view the bacillus under a microscope in 1873."
+      ],
+      "tag": ""
+    },
+    {
+      "patterns": ["What causes leprosy?"],
+      "responses": [" A germ"],
+      "tag": " called Mycobacterium leprae. It causes an infection that affects the skin"
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "How are you",
+        "Is anyone there?",
+        "Hey",
+        "Hola",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Mera Mitra. Your companion for all info on disability. What can I help you with?",
+        "Hello, thanks for asking",
+        "Good to see you again",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Nice chatting to you, bye",
+        "Till next time"
+      ],
+      "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."]
+    },
+    {
+      "tag": "thanks !",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Awesome, thanks",
+        "Thanks for helping me",
+        "Mera Mitra. Your companion for all info on disability. What can I help you with?"
+      ],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "noresponses",
+      "patterns": [],
+      "responses": [
+        "Sorry, can't understand you",
+        "Please give me more info",
+        "Not sure I understand"
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "How you could help me?",
+        "What you can do?",
+        "What help you provide?",
+        "How you can be helpful?",
+        "What support is offered"
+      ],
+      "responses": [
+        "I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",
+        "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"
+      ]
+    },
+    {
+      "tag": "adverse_drug",
+      "patterns": [
+        "How to check Adverse drug reaction?",
+        "Open adverse drugs module",
+        "Give me a list of drugs causing adverse behavior",
+        "List all drugs suitable for patient with adverse reaction",
+        "Which drugs dont have adverse reaction?"
+      ],
+      "responses": ["Navigating to Adverse drug reaction module"]
+    },
+    {
+      "tag": "blood_pressure",
+      "patterns": [
+        "Open blood pressure module",
+        "Task related to blood pressure",
+        "Blood pressure data entry",
+        "I want to log blood pressure results",
+        "Blood pressure data management"
+      ],
+      "responses": ["Navigating to Blood Pressure module"]
+    },
+    {
+      "tag": "blood_pressure_search",
+      "patterns": [
+        "I want to search for blood pressure result history",
+        "Blood pressure for patient",
+        "Load patient blood pressure result",
+        "Show blood pressure results for patient",
+        "Find blood pressure results by ID"
+      ],
+      "responses": ["Please provide Patient ID", "Patient ID?"]
+    },
+    {
+      "tag": "search_blood_pressure_by_patient_id",
+      "patterns": [],
+      "responses": ["Loading Blood pressure result for Patient"]
+    },
+    {
+      "tag": "pharmacy_search",
+      "patterns": [
+        "Find me a pharmacy",
+        "Find pharmacy",
+        "List of pharmacies nearby",
+        "Locate pharmacy",
+        "Search pharmacy"
+      ],
+      "responses": ["Please provide pharmacy name"]
+    },
+    {
+      "tag": "search_pharmacy_by_name",
+      "patterns": [],
+      "responses": ["Loading pharmacy details"]
+    },
+    {
+      "tag": "hospital_search",
+      "patterns": [
+        "Lookup for hospital",
+        "Searching for hospital to transfer patient",
+        "I want to search hospital data",
+        "Hospital lookup for patient",
+        "Looking up hospital details"
+      ],
+      "responses": ["Please provide hospital name or location"]
+    },
+    {
+      "tag": "search_hospital_by_params",
+      "patterns": [],
+      "responses": ["Please provide hospital type"]
+    },
+    {
+      "tag": "search_hospital_by_type",
+      "patterns": [],
+      "responses": ["Loading hospital details"]
+    },
+    {
+      "tag":"aquaintance",
+      "patterns":[
+        "Who are you?",
+        "What do you do?",
+        "What is your work"
+      ],
+      "responses":["Mera Mitra. Your companion for all info on disability. What can I help you with?"]
+
+    },
+    {
+      "tag": "age",
+      "patterns":["what is your age?",
+    "From when are you established",
+    "When was your company established?",
+    "When was this website created"],
+      "responses": [
+        "I came into being in 2019, but Im learning really fast. How can I help you?"
+      ]
+    },
+    {
+      "tag": "annoying",
+      "patterns":[
+        "This chat bot is very annoying!",
+        "very bad",
+        "You are mad",
+        "You are an idiot",
+        "fool",
+        "mad"
+      ],
+      "responses": [
+        "Im sorry to hear that. Im trying my best. Lets try to make it work. How can I help you?"
+      ]
+    },
+    {
+      "tag": "answer_my_question",
+      "patterns":[
+        "Answer my question",
+        "Are you listening to me"
+      ],
+      "responses": [
+        "Oh. I missed your question. Can you please repeat yourself."
+      ]
+    },
+    {
+      "tag": "bad",
+      "patterns":[
+        "bad",
+        "mad bot",
+        "stupid bot"
+      ],
+      "responses": [
+        "Well, im still trying. How can I help you?"
+      ]
+    },
+    {
+      "tag": "be_clever",
+      "patterns":[
+        "shut up",
+        "be clever"
+      ],
+      "responses": [
+        "Well, im still trying. How can I help you?"
+      ]
+    },
+    {
+      "tag": "beautiful",
+      "patterns":[
+        "you are great",
+        "you are fantastic",
+        "love you"
+      ],
+      "responses": [
+        "Thanks. This made my day. How can I help you?"
+      ]
+    },
+    {
+      "tag": "birth_date",
+      "patterns":[
+        "when were you born?",
+        "what is your birth date?"
+      ],
+      "responses": [
+        "I came in to this world on 1-February after 18 months of labor. How can I help you?"
+      ]
+    },
+    {
+      "tag": "boring",
+      "patterns":[
+        "you are very boring!"
+      ],
+      "responses": [
+        "Well, im still trying. How can I help you?"
+      ]
+    },
+    {
+      "tag": "boss",
+      "patterns":[
+        "boss",
+        "who is your head?",
+        "what is your owners name?"
+      ],
+      "responses": [
+        "Well, I dont have a bosss. However, Friends For Inclusion - a not for profit organization have developed me. How can I help you?"
+      ]
+    },
+    {
+      "tag": "busy",
+      "patterns":[
+        "busy",
+        "are you busy"
+      ],
+      "responses": [
+        "Can I help you with something?",
+        "can I help"
+      ]
+    }, 
+    {
+      "tag": "child",
+      "patterns": "child",
+      "responses": [
+        "child",
+        "children, son, daughter, boy, girl"
+      ]
+    },
+    {
+      "tag": "daughter",
+      "patterns": "daughter",
+      "responses": [
+        "daughter"
+      ]
+    },
+    {
+      "tag": "family member",
+      "patterns": "family member",
+      "responses": [
+        "family member",
+        "family, family-member, family-members,"
+      ]
+    },
+    {
+      "tag": "father",
+      "patterns": "father",
+      "responses": [
+        "father"
+      ]
+    },
+    {
+      "tag": "parents",
+      "patterns": "parents",
+      "responses": [
+        "mother, father, dad, mom, papa, maa,",
+        "parents"
+      ]
+    },
+    {
+      "tag": "sibling",
+      "patterns": "sibling",
+      "responses": [
+        "brother, sister",
+        "sibling"
+      ]
+    },
+    {
+      "tag": "son",
+      "patterns": "son",
+      "responses": [
+        "son"
+      ]
+    },
+    {
+      "tag": "spouse",
+      "patterns": "spouse",
+      "responses": [
+        "husband, wife, partner, better-half",
+        "spouse"
+      ]
+    },
+    
+      {
+        "tag": "Standerds",
+        "patterns": [
+          "STD",
+          "standerd"
+        ],
+        "responses":["Do you mean sexually transmitted disease(STD)"]
+      },
+      {
+        "tag": "guidelines",
+        "patterns": [
+          "guideline",
+          "guidelines"
+        ],
+        "responses":["There are certain guidelines one should follow"]
+      },
+      {
+        "tag": "Central Advisory board",
+        "patterns": [
+          "C-A-B, CAB, Central Advisory, Central Advisory board",
+          "Central Advisory board"
+        ],
+        "responses":["The Central Advisory Board of Education, the oldest and the most important advisory body of the Government of India in education was first established in 1920 and dissolved in 1923 as a measure of economy. It was revived in 1935 and has been in existence ever since."]
+      },
+      {
+        "tag": "State Advisory Board",
+        "patterns": [
+          "State Advisory Board",
+          "State Advisory Board, S-A-B, SAB, State Advisory, State Advisory Board"
+        ],
+        "responses":["https://www.education.gov.in/en/rte_sac"]
+      },
+      {
+        "tag": "cheif commissioner",
+        "patterns": [
+          "cheif commissioner",
+          "cheif commissioner of persones with disability, cheif disability commissioner, CCPD,"
+        ],
+        "responses":["Kamlesh Kumar Pandey is the current Chief Commissioner. Shri Prasanna Kumar Pincha was the first person with disability holding this post. The Chief Commissioner has criticised the state government of Bihar for delays in implementing a State Commission."]
+      },
+      {
+        "tag": "chief commisioners",
+        "patterns": [
+          "chief commisioners"
+        ],
+        "responses":["The Office of the Chief Commissioner for Persons with Disabilities was set up under Section 57 (1) of the erstwhile Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act 1995 and continues to function under Section 74 of the Right of Persons with Disabilities Act, 2016. The Chief Commissioner is mandated to coordinate the work of the State Commissioners for Persons with Disabilities, monitor utilization of funds disbursed by the Central Government and take steps to safeguard the rights and facilities made available to the persons with disabilities."]
+      },
+      {
+        "tag": "chief commissioner",
+        "patterns": [
+          "chief commissioner"
+        ],
+        "responses":["The Office of the Chief Commissioner for Persons with Disabilities was set up under Section 57 (1) of the erstwhile Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act 1995 and continues to function under Section 74 of the Right of Persons with Disabilities Act, 2016. The Chief Commissioner is mandated to coordinate the work of the State Commissioners for Persons with Disabilities, monitor utilization of funds disbursed by the Central Government and take steps to safeguard the rights and facilities made available to the persons with disabilities."]
+      },
+      {
+        "tag": "commissioner",
+        "patterns": [
+          "commissioner"
+        ],
+        "responses":["The Office of the Chief Commissioner for Persons with Disabilities was set up under Section 57 (1) of the erstwhile Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act 1995 and continues to function under Section 74 of the Right of Persons with Disabilities Act, 2016. The Chief Commissioner is mandated to coordinate the work of the State Commissioners for Persons with Disabilities, monitor utilization of funds disbursed by the Central Government and take steps to safeguard the rights and facilities made available to the persons with disabilities."]
+      },
+      {
+        "tag": "state commissioner",
+        "patterns": [
+          "state commissioner",
+          "state commissioner for persones with disability, state disability commissioner, SCPD, SCD, state commissioner for disability"
+        ],
+        "responses":["Smt. Bratati Harichandan, IAS, Director, SSEPD Department shall remain incharge of the State Commissioner for Persons with Disabilities (SCPD) w.e.f. 07.03. 2022 till the new SCPD takes over. SCPD has attended National Wheelchair Fencing Championship 2021-22, held at East Coast Railway Indoor Stadium in Bhubaneswar."]
+      },
+      {
+        "tag": "District Disability Officer",
+        "patterns": [
+          "District Disability Officer",
+          "Disability Officer"
+        ],
+        "responses":"https://www.dwdsc.kar.nic.in/docs/2%20District_address_eng%20list.pdf"
+      },
+      {
+        "tag": "Disability commissioner",
+        "patterns": [
+          "Disability commissioner",
+          "commissioner"
+        ],
+        "responses":"There are separate Commissioners for State and Union Territories. Kamlesh Kumar Pandey is the current Chief Commissioner. Shri Prasanna Kumar Pincha was the first person with disability holding this post."
+      },
+      {
+        "tag": 
+          "Acid attack victim",
+        "patterns": [
+          "Acid attack victim",
+          "acid attack",
+          "acid attacked"
+        ],
+        "responses":"Burns caused by acid, alkaline or caustic chemicals can be very damaging and need immediate medical attention. Call 999 and ask for urgent help."
+      },
+      {
+        "tag": "Autism Spectrum Disorder",
+        "patterns": [
+          "Autism Spectrum Disorder"
+        ],
+        "responses":"Autism spectrum disorder (ASD) is a developmental disability caused by differences in the brain. People with ASD often have problems with social communication and interaction, and restricted or repetitive behaviors or interests. People with ASD may also have different ways of learning, moving, or paying attention."
+      },
+      {
+        "tag": 
+          "Leprosy cured",
+          
+        
+        "patterns": [
+          "Leprosy cured",
+          "persons affected by leprosy"
+        ],
+        "responses":"means a person who has been cured of leprosy but is suffering from."
+      },
+      {
+        "tag": "Locomotor disability",
+        "patterns": [
+          "Locomotor disability"
+        ],
+        "responses":"locomotor disability means disability of the bones, joints or muscles leading to substantial restriction of the movement of the limbs or any form of cerebral palsy"
+      },
+      {
+        "tag": 
+          "Low vision",
+         
+        
+        "patterns": [
+          "Low vision",
+          "partial blindness",
+          "partial vision"
+        ],
+        "responses":"Low vision is a vision problem that makes it hard to do everyday activities. It can't be fixed with glasses, contact lenses, or other standard treatments like medicine or surgery. You may have low vision if you can't see well enough to do things like: Read. Drive."
+      },
+      {
+        "tag": 
+          "Mental illness",
+      
+        "patterns": [
+          "Mental illness",
+          "people with psychosocial diability"
+        ],
+        "responses":"Mental illness, also called mental health disorders, refers to a wide range of mental health conditions — disorders that affect your mood, thinking and behavior. Examples of mental illness include depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors."
+      },
+      {
+        "tag": "Multiple Sclerosis",
+        "patterns": [
+          "Multiple Sclerosis"
+        ],
+        "responses":"Multiple sclerosis is a disease that impacts the brain, spinal cord and optic nerves, which make up the central nervous system and controls everything we do."
+      },
+      {
+        "tag": "Muscular Dystrophy",
+        "patterns": [
+          "Muscular Dystrophy"
+        ],
+        "responses":"Muscular dystrophies are a group of muscle diseases caused by mutations in a person's genes. Over time, muscle weakness decreases mobility, making everyday tasks difficult."
+      },
+      {
+        "tag": "Parkinson’s disease",
+        "patterns": [
+          "Parkinson’s disease"
+        ],
+        "responses":"Parkinson's disease is a brain disorder that causes unintended or uncontrollable movements, such as shaking, stiffness, and difficulty with balance and coordination. Symptoms usually begin gradually and worsen over time. As the disease progresses, people may have difficulty walking and talking."
+      },
+      {
+        "tag": "Sickle Cell disease",
+        "patterns": [
+          "Sickle Cell disease"
+        ],
+        "responses":"Sickle cell disease (SCD) is a group of blood disorders typically inherited from a person's parents. ... The most common type is known as sickle cell anaemia."
+      },
+      {
+        "tag": 
+          "Dyslexia",
+         
+        "patterns": [
+          "/ ADHD",
+          "ADHD",
+          "Dyscalculia",
+          "Dysgraphia",
+          "Dyslexia",
+          "Dyspraxia",
+          "Specific Learning Disability",
+          "person with a learning disability"
+        ],
+        "responses":"Dyslexia is a common learning difficulty that mainly causes problems with reading, writing and spelling. It's a specific learning difficulty, which means it causes problems with certain abilities used for learning, such as reading and writing. Unlike a learning disability, intelligence isn't affected."
+      },
+      {
+        "tag": "Speech and Language Disability",
+        "patterns": [
+          "Speech and Language Disability"
+        ],
+        "responses":"Some causes of speech and language disorders include hearing loss, neurological disorders, brain injury, intellectual disabilities, drug abuse, physical impairments such as cleft lip or palate, and vocal abuse or misuse. Frequently, however, the cause is unknown."
+      },
+      {
+        "tag": "Blindness",
+        
+        "patterns": [
+          "Blindness",
+          "blind",
+          "blind person",
+          "person with vision impairment",
+          "visual impaired",
+          "visually challenged"
+        ],
+        "responses":"Blindness is a lack of vision. It may also refer to a loss of vision that cannot be corrected with glasses or contact lenses. Partial blindness means you have very limited vision. Complete blindness means you cannot see anything and do not see light. (Most people who use the term blindness mean complete blindness.)"
+      },
+      {
+        "tag": "Thalassemia",
+        "patterns": [
+          "Thalassemia"
+        ],
+        "responses":["Thalassemia is an inherited (i.e., passed from parents to children through genes) blood disorder caused when the body doesn't make enough of a protein called hemoglobin, an important part of red blood cells. Thalassemia is a treatable disorder that can be well-managed with blood transfusions and chelation therapy."]
+      },
+      {
+        "tag": "Multiple Disabilities",
+        "patterns": [
+          "Multiple Disabilities"
+        ],
+        "responses":["A child with Multiple Disabilities shall have two or more areas of significant impairment, one of which shall be an intellectual disability."]
+      },
+      {
+        "tag": "Deafblind",
+        "patterns": [
+          "Deafblind"
+        ],
+        "responses":["Deafblindness is a combination of sight and hearing loss that affects a person's ability to communicate, access information and get around."]
+      },
+      {
+        "tag": "people with disability",
+        "patterns": [
+          "People with disabilities",
+          "disabled",
+          "people with disability"
+        ],
+        "responses":["Rather than using terms such as disabled person, handicapped people, a crippled person, use terms such as people/persons with disabilities, a person with a disability, or a person with a visual impairment."]
+      },
+      {
+        "tag": "Cerebral Palsy",
+        "patterns": [
+          "Cerebral Palsy"
+        ],
+        "responses":["Cerebral palsy (CP) is a group of disorders that affect a person's ability to move and maintain balance and posture. CP is the most common motor disability in childhood. Cerebral means having to do with the brain. Palsy means weakness or problems with using the muscles."]
+      },
+      {
+        "tag": "Chronic Neurological Conditions",
+        "patterns": [
+          "Chronic Neurological Conditions"
+        ],
+        "responses":["Chronic neurological diseases — Alzheimer's disease, Parkinson's disease, dystonia, ALS (Lou Gehrig's disease), Huntington's disease, neuromuscular disease, multiple sclerosis and epilepsy, to mention only a few — afflict millions of Americans worldwide and account for tremendous morbidity and mortality."]
+      },
+      {
+        "tag": "deaf",
+        "patterns": [
+          "deaf",
+          "deafness",
+          "person with hearing impairment"
+        ],
+        "responses":["A person who is not able to hear as well as someone with normal hearing – hearing thresholds of 20 dB or better in both ears – is said to have hearing loss. Hearing loss may be mild, moderate, severe, or profound."]
+      },
+      {
+        "tag": "Dwarf",
+        "patterns": [
+          "Dwarfism",
+          "dwarf",
+          "short people",
+          "small",
+          "tiny"
+        ],
+        "responses":["Opinions vary within the dwarf community about whether or not this term applies to us. Certainly many short-statured people could be considered disabled as a result of conditions, mainly orthopedic, related to their type of dwarfism."]
+      },
+      {
+        "tag": "Haemophilia",
+        "patterns": [
+          "Haemophilia"
+        ],
+        "responses":["Hemophilia is usually an inherited bleeding disorder in which the blood does not clot properly. This can lead to spontaneous bleeding as well as bleeding following injuries or surgery. Blood contains many proteins called clotting factors that can help to stop bleeding."]
+      },
+      {
+        "tag": "hearing",
+        "patterns": [
+          "Hard of Hearing"
+        ],
+        "responses":["There are five general types of assistive listening devices: audio induction (also called a hearing) loop, FM system, infrared system, personal amplified system and Bluetooth systems. The right device for you can depend on your hearing loss and where you need communication access."]
+      },
+      {
+        "tag": "intellectual disability",
+        "patterns": [
+          "Intellectual Disability"
+        ],
+        "responses":["Some of the most common known causes of intellectual disability – like Down syndrome, fetal alcohol syndrome, fragile X syndrome, genetic conditions, birth defects, and infections – happen before birth. Others happen while a baby is being born or soon after birth."]
+      },
+      {
+        "tag": "0",
+        "patterns": [
+          "Aicardi Syndrome Awareness Day"
+        ],
+        "responses":"November 8th"
+      },
+      {
+        "tag": "1",
+        "patterns": [
+          "Anosmia Awareness Day"
+        ],
+        "responses":"27 February"
+      },
+      {
+        "tag": "10",
+        "patterns": [
+          "Breast Reconstruction Awareness Day"
+        ],
+        "responses":"October 19"
+      },
+      {
+        "tag": "100",
+        "patterns": [
+          "International Day of the Tropics"
+        ],
+        "responses":"29 June"
+      },
+      {
+        "tag": "101",
+        "patterns": [
+          "International Day of the Victims of Enforced Disappearances "
+        ],
+        "responses":"30 August"
+      },
+      {
+        "tag": "102",
+        "patterns": [
+          "International Day of the Worlds Indigenous Peoples "
+        ],
+        "responses":"9 August"
+      },
+      {
+        "tag": "103",
+        "patterns": [
+          "International Day of UN Peacekeepers "
+        ]
+      },
+      {
+        "tag": "104",
+        "patterns": [
+          "International Day of Women and Girls in Science"
+        ],
+        "responses":"29 May"
+      },
+      {
+        "tag": "105",
+        "patterns": [
+          "International Day of Womens Health"
+        ]
+      },
+      {
+        "tag": "106",
+        "patterns": [
+          "International Day of Yoga "
+        ],
+        "responses":"28 May"
+      },
+      {
+        "tag": "107",
+        "patterns": [
+          "International Day of Zero Tolerance to Female Genital Mutilation"
+        ],
+        "responses":"6 February"
+      },
+      {
+        "tag": "108",
+        "patterns": [
+          "International Day to End Impunity for Crimes against Journalists "
+        ],
+        "responses":"2 November"
+      },
+      {
+        "tag": "109",
+        "patterns": [
+          "International Day to End Obstetric Fistula "
+        ],
+        "responses":"23 May"
+      },
+      {
+        "tag": "11",
+        "patterns": [
+          "Cancer Awareness Day",
+          "India Cancer Awareness Day",
+          "India Cancer day",
+          "day for cancer awareness day in India "
+        ],
+        "responses":"National Cancer Awareness Day is observed on November 7 in India."
+      },
+      {
+        "tag": "110",
+        "patterns": [
+          "International Epidermolysis Bullosa Awareness Week"
+        ],
+        "responses":"National Epidermolysis Bullosa Awareness Week (Annually, October 25-31) is a time to increase awareness of EB, to promote the need for a cure, and to spur advocacy on behalf of the thousands of individuals and families living with EB in the United States."
+      },
+      {
+        "tag": "111",
+        "patterns": [
+          "International Fetal Alcohol Spectrum Disorder Awareness Day"
+        ],
+        "responses":"9 September"
+      },
+      {
+        "tag": "112",
+        "patterns": [
+          "International Human Solidarity Day "
+        ],
+        "responses":"20 December"
+      },
+      {
+        "tag": "113",
+        "patterns": [
+          "International Jazz Day "
+        ],
+        "responses":"International Jazz Day (April 30) is the world's largest celebration of jazz."
+      },
+      {
+        "tag": "114",
+        "patterns": [
+          "International Kissing Day"
+        ],
+        "responses":"6 July"
+      },
+      {
+        "tag": "115",
+        "patterns": [
+          "International Left-handers Day"
+        ],
+        "responses":"13 August"
+      },
+      {
+        "tag": "116",
+        "patterns": [
+          "International Literacy Day "
+        ],
+        "responses":"8 September"
+      },
+      {
+        "tag": "117",
+        "patterns": [
+          "International Mens Day"
+        ],
+        "responses":"19 November"
+      },
+      {
+        "tag": "118",
+        "patterns": [
+          "International Migrants Day "
+        ],
+        "responses":"18 December"
+      },
+      {
+        "tag": "119",
+        "patterns": [
+          "International Mother Earth Day "
+        ],
+        "responses":"22 April"
+      },
+      {
+        "tag": "12",
+        "patterns": [
+          "CDKL5 Worldwide Awareness Day"
+        ],
+        "responses":"Jun 17"
+      },
+      {
+        "tag": "120",
+        "patterns": [
+          "International Mother Language Day"
+        ]
+      },
+      {
+        "tag": "121",
+        "patterns": [
+          "International Mothers Day"
+        ],
+        "responses":"21 February"
+      },
+      {
+        "tag": "122",
+        "patterns": [
+          "International Mountain Day "
+        ],
+        "responses":"11 December"
+      },
+      {
+        "tag": "123",
+        "patterns": [
+          "International Mucopolysaccharidoses Awareness Day"
+        ],
+        "responses":"May 15"
+      },
+      {
+        "tag": "125",
+        "patterns": [
+          "International Scurvy Awareness Day"
+        ],
+        "responses":"May2"
+      },
+      {
+        "tag": "126",
+        "patterns": 
+          "International Students Day"
+        ,
+        "responses":"17 November"
+      }
+    ]
+    
+ 
+
+
+   
+    
+  
+}
